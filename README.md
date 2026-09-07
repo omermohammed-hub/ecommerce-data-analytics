@@ -88,25 +88,13 @@ Analyses returns, refund values, return reasons and category-level return perfor
 ---
 ## Dashboard Preview
 
-### Executive / E-Commerce Overview
+Click a dashboard page below to view the full screenshot.
 
-![Executive Overview](screenshots/01-executive-overview.png)
-
-### Sales / Customer Analysis
-
-![Sales & Customer Analysis](screenshots/02-sales-customer-analysis.png)
-
-### Product & Inventory Analysis
-
-![Product & Inventory Analysis](screenshots/03-product-inventory-analysis.png)
-
-### Procurement & Supplier Analysis
-
-![Procurement & Supplier Analysis](screenshots/04-procurement-supplier-analysis.png)
-
-### Returns & Operations Analysis
-
-![Returns & Operations Analysis](screenshots/05-returns-operations-analysis.png)
+- [01 — Executive / E-Commerce Overview](screenshots/01-executive-overview.png)
+- [02 — Sales / Customer Analysis](screenshots/02-sales-customer-analysis.png)
+- [03 — Product & Inventory Analysis](screenshots/03-product-inventory-analysis.png)
+- [04 — Procurement & Supplier Analysis](screenshots/04-procurement-supplier-analysis.png)
+- [05 — Returns & Operations Analysis](screenshots/05-returns-operations-analysis.png)
 
 ## Key Business Insights
 
