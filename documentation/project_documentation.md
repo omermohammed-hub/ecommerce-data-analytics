@@ -2,11 +2,11 @@
 
 ## 1. Project Overview
 
-Perfect2Trade is an end-to-end e-commerce data analytics project designed to demonstrate how business data can be transformed into actionable insights using Python, Power Query, Power BI and DAX.
+Perfect2Trade is an end-to-end e-commerce data analytics project designed to demonstrate how business data can be transformed into actionable insights using Python, Power Query, Power BI, and DAX.
 
-The project analyses sales, customers, products, inventory, suppliers, procurement, payments, shipments and returns across an interconnected e-commerce dataset.
+The project analyses sales, customers, products, inventory, suppliers, procurement, payments, shipments, and returns across an interconnected e-commerce dataset.
 
-The final solution combines data preparation, data modelling, analytical calculations and interactive Power BI dashboards to evaluate business performance and identify opportunities and operational risks.
+The final solution combines data preparation, data modelling, analytical calculations, and interactive Power BI dashboards to evaluate business performance and identify opportunities and operational risks.
 
 ---
 
@@ -55,7 +55,7 @@ The dataset contains ten core business tables:
 | Table | Purpose |
 |---|---|
 | Customers | Customer information and customer segmentation |
-| Products | Product details, categories, prices and reorder levels |
+| Products | Product details, categories, prices, and reorder levels |
 | Suppliers | Supplier information and locations |
 | Orders | Customer order-level information |
 | Order_items | Individual products and quantities within orders |
@@ -143,12 +143,6 @@ Date relationships were configured carefully, including inactive relationships w
 
 DAX was used to create reusable business measures rather than relying only on raw columns.
 
-Examples include:
-
-### Total Revenue
-
-Revenue was calculated from order-item quantities and selling prices.
-
 ### Total COGS
 
 Cost of goods sold was calculated by multiplying the quantity sold by the related product cost price.
@@ -203,13 +197,13 @@ DATEDIFF(
     DAY
 )
 
-Additional measures were created for average delivery delay, late shipments, late shipment percentage, returns, refunds, return rate and other dashboard KPIs.
+Additional measures were created for average delivery delay, late shipments, late shipment percentage, returns, refunds, return rate, and other dashboard KPIs.
 
 8. Power BI Dashboard
 
 The final Power BI solution contains five analytical pages.
 
-Page 1 — E-Commerce Overview
+Page 1 - E-Commerce Overview
 
 Provides an executive-level view of:
 
@@ -226,7 +220,7 @@ Revenue by region
 
 This page is designed to provide a quick overview of overall business performance.
 
-Page 2 — Sales & Customer Analysis
+Page 2 - Sales & Customer Analysis
 
 Focuses on customer and sales performance.
 
@@ -241,7 +235,7 @@ Top products by revenue
 
 This page allows users to investigate where sales are being generated and which customer and product segments contribute to revenue.
 
-Page 3 — Product & Inventory
+Page 3 - Product & Inventory
 
 Focuses on product performance and stock levels.
 
@@ -255,7 +249,7 @@ Inventory information
 
 This page helps identify product categories with different sales and inventory characteristics and supports stock-level investigation.
 
-Page 4 — Procurement & Supplier Analysis
+Page 4 - Procurement & Supplier Analysis
 
 Focuses on supplier and purchasing activity.
 
@@ -271,7 +265,7 @@ Procurement spend by supplier country
 
 This page provides visibility into purchasing activity and supplier-related performance.
 
-Page 5 — Returns & Operations
+Page 5 - Returns & Operations
 
 Focuses on customer returns and operational performance.
 
@@ -353,11 +347,11 @@ Based on the analysis, the main recommendations are:
 
 1. Investigate the 2026 Revenue Decline
 
-Analyse the decline by category, region, customer type, sales channel and individual products to identify where the reduction is concentrated.
+Analyse the decline by category, region, customer type, sales channel, and individual products to identify where the reduction is concentrated.
 
 2. Review Pet Care Profitability
 
-Investigate pricing, supplier costs, product mix and discounting to identify opportunities to improve the category's margin.
+Investigate pricing, supplier costs, product mix, and discounting to identify opportunities to improve the category's margin.
 
 3. Prioritise Inventory Replenishment
 
@@ -373,7 +367,7 @@ Focus on quality-related returns and the Garden & Outdoor category to identify r
 
 6. Evaluate Electrical for Profitable Growth
 
-Assess opportunities to increase Electrical sales through targeted promotions, product expansion and customer targeting while protecting margin.
+Assess opportunities to increase Electrical sales through targeted promotions, product expansion, and customer targeting while protecting margin.
 
 7. Focus on Profitable Growth
 
@@ -393,14 +387,11 @@ Category-level margins should be investigated at product and supplier level befo
 These limitations are considered when translating dashboard findings into business recommendations.
 
 12. Tools & Technologies
-
-The project used the following tools and technologies:
-
 Tool / Technology	Purpose
-Python	Dataset generation, inspection and validation
+Python	Dataset generation, inspection, and validation
 Pandas	Data handling and validation
 Power Query	ETL and data transformation
-Power BI	Data modelling, visualisation and dashboard development
+Power BI	Data modelling, visualisation, and dashboard development
 DAX	Business measures and analytical calculations
 Git	Version control
 GitHub	Repository and portfolio documentation
@@ -428,27 +419,18 @@ Git and GitHub version control
 Technical documentation
 14. Project Outcome
 
-The final solution provides an integrated analytical view of an e-commerce business across sales, customers, products, inventory, procurement, suppliers, shipments and returns.
+The final solution provides an integrated analytical view of an e-commerce business across sales, customers, products, inventory, procurement, suppliers, shipments, and returns.
 
 The project demonstrates the complete analytical workflow:
 
 Business Problem → Data → ETL → Data Model → DAX → Dashboard → Insights → Recommendations
 
-Rather than focusing only on visualisation, the project demonstrates how analytical results can be translated into business questions, findings and practical recommendations.
+Rather than focusing only on visualisation, the project demonstrates how analytical results can be translated into business questions, findings, and practical recommendations.
 
 15. Conclusion
 
 The Perfect2Trade project demonstrates how a Data Analyst can combine technical and analytical skills to transform multiple business datasets into a practical decision-support solution.
 
-The analysis shows a profitable business with £74.33M in revenue and £28.31M in gross profit, while also highlighting areas requiring attention across revenue performance, category profitability, inventory, supplier delivery and returns.
+The analysis shows a profitable business with £74.33M in revenue and £28.31M in gross profit, while also highlighting areas requiring attention across revenue performance, category profitability, inventory, supplier delivery, and returns.
 
 The overall recommendation is to pursue targeted profitable growth, protect existing margins, and improve operational control using data-driven monitoring.
-
-"""
-from pathlib import Path
-path = Path("/mnt/data/project_documentation.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size:,} bytes)")
-print("Paste the content above into your VS Code file, then save with Ctrl+S.")
-print("After saving, run: git status")
-print("Do not commit yet.")
