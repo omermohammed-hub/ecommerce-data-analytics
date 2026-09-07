@@ -1,0 +1,41 @@
+supplier_id,supplier_name,supplier_country,supplier_region,standard_lead_time_days,payment_terms_days,supplier_status
+SUP00001,China Supplier 001,China,Fujian,36,30,Active
+SUP00002,China Supplier 002,China,Fujian,53,45,Active
+SUP00003,China Supplier 003,China,Fujian,35,15,Active
+SUP00004,China Supplier 004,China,Guangdong,46,45,Active
+SUP00005,China Supplier 005,China,Fujian,48,15,Active
+SUP00006,China Supplier 006,China,Jiangsu,48,45,Active
+SUP00007,China Supplier 007,China,Zhejiang,43,45,Active
+SUP00008,China Supplier 008,China,Fujian,49,30,Active
+SUP00009,China Supplier 009,China,Jiangsu,39,15,Active
+SUP00010,China Supplier 010,China,Fujian,48,30,Active
+SUP00011,China Supplier 011,China,Guangdong,41,60,Active
+SUP00012,China Supplier 012,China,Fujian,42,45,Active
+SUP00013,China Supplier 013,China,Jiangsu,35,30,Active
+SUP00014,China Supplier 014,China,Jiangsu,56,60,Inactive
+SUP00015,China Supplier 015,China,Jiangsu,57,30,Active
+SUP00016,China Supplier 016,China,Jiangsu,50,45,Active
+SUP00017,China Supplier 017,China,Shandong,56,30,Active
+SUP00018,China Supplier 018,China,Fujian,38,15,Inactive
+SUP00019,China Supplier 019,China,Guangdong,59,45,Active
+SUP00020,China Supplier 020,China,Shandong,53,15,Active
+SUP00021,India Supplier 021,India,Maharashtra,28,45,Active
+SUP00022,India Supplier 022,India,Gujarat,31,15,Inactive
+SUP00023,India Supplier 023,India,Maharashtra,28,30,Active
+SUP00024,India Supplier 024,India,Karnataka,34,60,Active
+SUP00025,India Supplier 025,India,Delhi,38,30,Active
+SUP00026,India Supplier 026,India,Delhi,25,30,Active
+SUP00027,India Supplier 027,India,Karnataka,40,15,Active
+SUP00028,India Supplier 028,India,Maharashtra,26,45,Active
+SUP00029,India Supplier 029,India,Maharashtra,29,60,Active
+SUP00030,India Supplier 030,India,Delhi,30,45,Active
+SUP00031,India Supplier 031,India,Delhi,32,30,Active
+SUP00032,India Supplier 032,India,Tamil Nadu,33,15,Active
+SUP00033,UK Supplier 033,UK,Wales,2,30,Active
+SUP00034,UK Supplier 034,UK,Northern Ireland,2,60,Active
+SUP00035,UK Supplier 035,UK,Scotland,3,30,Inactive
+SUP00036,UK Supplier 036,UK,England,8,45,Active
+SUP00037,UK Supplier 037,UK,England,6,30,Active
+SUP00038,UK Supplier 038,UK,Northern Ireland,6,30,Active
+SUP00039,UK Supplier 039,UK,Wales,5,30,Active
+SUP00040,UK Supplier 040,UK,England,7,60,Inactive

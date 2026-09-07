@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,supplier_id,sourcing_country,cost_price,selling_price,reorder_level,active_flag
+PROD00001,SmartBuy Wellness Product 001,Health & Beauty,Wellness,SmartBuy,SUP00004,China,96.92,123.73,100,True
+PROD00002,TradeSelect Wallpaper Product 002,Paints & Decorating,Wallpaper,TradeSelect,SUP00005,China,98.54,178.14,77,True
+PROD00003,PrimeChoice Storage Product 003,Homeware,Storage,PrimeChoice,SUP00005,China,91.15,136.78,63,True
+PROD00004,HomePro Bathroom Product 004,Homeware,Bathroom,HomePro,SUP00034,UK,67.28,99.15,51,True
+PROD00005,Everyday Essentials BBQ Product 005,Garden & Outdoor,BBQ,Everyday Essentials,SUP00011,China,45.58,77.79,17,True
+PROD00006,TradeSelect Plant Care Product 006,Garden & Outdoor,Plant Care,TradeSelect,SUP00022,India,61.56,101.36,75,True
+PROD00007,HomePro Bathroom Product 007,Homeware,Bathroom,HomePro,SUP00014,China,117.98,221.84,33,True
+PROD00008,ValuePlus BBQ Product 008,Garden & Outdoor,BBQ,ValuePlus,SUP00031,India,82.27,99.43,55,True
+PROD00009,HomePro Bathroom Product 009,Homeware,Bathroom,HomePro,SUP00038,UK,56.81,103.24,98,True
+PROD00010,ValuePlus Kitchen Product 010,Homeware,Kitchen,ValuePlus,SUP00004,China,35.43,42.61,42,True
+PROD00011,SmartBuy Dog Care Product 011,Pet Care,Dog Care,SmartBuy,SUP00013,China,102.15,146.69,63,True
+PROD00012,PrimeChoice Wallpaper Product 012,Paints & Decorating,Wallpaper,PrimeChoice,SUP00032,India,66.1,102.92,49,True
+PROD00013,ValuePlus Brushes & Rollers Product 013,Paints & Decorating,Brushes & Rollers,ValuePlus,SUP00028,India,31.44,43.61,85,True
+PROD00014,TradeSelect Skincare Product 014,Health & Beauty,Skincare,TradeSelect,SUP00001,China,101.63,126.15,17,True
+PROD00015,TradeSelect Wallpaper Product 015,Paints & Decorating,Wallpaper,TradeSelect,SUP00007,China,59.5,112.05,25,True
+PROD00016,ValuePlus Skincare Product 016,Health & Beauty,Skincare,ValuePlus,SUP00023,India,17.31,21.88,85,True
+PROD00017,SmartBuy Kitchen Product 017,Homeware,Kitchen,SmartBuy,SUP00036,UK,5.45,9.0,64,True
+PROD00018,Everyday Essentials Bathroom Product 018,Homeware,Bathroom,Everyday Essentials,SUP00009,China,25.78,34.04,83,True
+PROD00019,TradeSelect Pet Food Product 019,Pet Care,Pet Food,TradeSelect,SUP00024,India,53.42,87.51,17,True
+PROD00020,PrimeChoice Outdoor Furniture Product 020,Garden & Outdoor,Outdoor Furniture,PrimeChoice,SUP00021,India,46.64,75.9,51,True
+PROD00021,TradeSelect Cleaning Product 021,Homeware,Cleaning,TradeSelect,SUP00021,India,34.52,43.93,28,True
+PROD00022,ValuePlus Hair Care Product 022,Health & Beauty,Hair Care,ValuePlus,SUP00017,China,69.7,139.07,12,True
+PROD00023,Everyday Essentials Hair Care Product 023,Health & Beauty,Hair Care,Everyday Essentials,SUP00015,China,45.42,66.1,50,True
+PROD00024,Everyday Essentials Wellness Product 024,Health & Beauty,Wellness,Everyday Essentials,SUP00004,China,76.24,92.88,85,False
+PROD00025,Everyday Essentials Personal Care Product 025,Health & Beauty,Personal Care,Everyday Essentials,SUP00022,India,107.98,140.01,40,True
+PROD00026,PrimeChoice Switches Product 026,Electrical,Switches,PrimeChoice,SUP00003,China,83.25,116.11,63,True
+PROD00027,Everyday Essentials Kitchen Product 027,Homeware,Kitchen,Everyday Essentials,SUP00002,China,36.11,63.05,98,True
+PROD00028,ValuePlus Small Electrical Product 028,Electrical,Small Electrical,ValuePlus,SUP00002,China,19.07,37.09,95,True
+PROD00029,ValuePlus Wellness Product 029,Health & Beauty,Wellness,ValuePlus,SUP00014,China,51.68,78.76,35,True
+PROD00030,Everyday Essentials BBQ Product 030,Garden & Outdoor,BBQ,Everyday Essentials,SUP00020,China,67.27,109.72,20,True
+PROD00031,ValuePlus Pet Accessories Product 031,Pet Care,Pet Accessories,ValuePlus,SUP00035,UK,20.11,26.72,97,True
+PROD00032,Everyday Essentials Skincare Product 032,Health & Beauty,Skincare,Everyday Essentials,SUP00037,UK,24.19,33.73,41,True
+PROD00033,HomePro Brushes & Rollers Product 033,Paints & Decorating,Brushes & Rollers,HomePro,SUP00014,China,115.17,200.11,37,True
+PROD00034,TradeSelect Storage Product 034,Homeware,Storage,TradeSelect,SUP00010,China,4.51,6.31,69,True
+PROD00035,HomePro Lighting Product 035,Electrical,Lighting,HomePro,SUP00019,China,27.86,51.51,84,True
+PROD00036,SmartBuy Wallpaper Product 036,Paints & Decorating,Wallpaper,SmartBuy,SUP00029,India,76.48,147.59,100,True
+PROD00037,Everyday Essentials Cat Care Product 037,Pet Care,Cat Care,Everyday Essentials,SUP00021,India,92.23,146.35,53,True
+PROD00038,HomePro Outdoor Furniture Product 038,Garden & Outdoor,Outdoor Furniture,HomePro,SUP00024,India,38.59,46.82,35,True
+PROD00039,Everyday Essentials Interior Paint Product 039,Paints & Decorating,Interior Paint,Everyday Essentials,SUP00032,India,91.95,127.52,21,True
+PROD00040,TradeSelect Storage Product 040,Homeware,Storage,TradeSelect,SUP00030,India,105.26,153.95,96,True
+PROD00041,SmartBuy Plant Care Product 041,Garden & Outdoor,Plant Care,SmartBuy,SUP00039,UK,11.05,18.82,13,True
+PROD00042,SmartBuy Bathroom Product 042,Homeware,Bathroom,SmartBuy,SUP00010,China,37.62,54.43,17,True
+PROD00043,SmartBuy Garden Tools Product 043,Garden & Outdoor,Garden Tools,SmartBuy,SUP00021,India,57.19,80.75,68,True
+PROD00044,TradeSelect Exterior Paint Product 044,Paints & Decorating,Exterior Paint,TradeSelect,SUP00009,China,85.11,117.86,87,True
+PROD00045,TradeSelect Lighting Product 045,Electrical,Lighting,TradeSelect,SUP00013,China,116.52,218.55,29,False
+PROD00046,TradeSelect Cables Product 046,Electrical,Cables,TradeSelect,SUP00034,UK,26.62,38.97,90,False
+PROD00047,HomePro Cleaning Product 047,Homeware,Cleaning,HomePro,SUP00016,China,69.13,116.15,67,True
+PROD00048,TradeSelect Cat Care Product 048,Pet Care,Cat Care,TradeSelect,SUP00034,UK,81.98,151.5,33,True
+PROD00049,SmartBuy Bathroom Product 049,Homeware,Bathroom,SmartBuy,SUP00019,China,47.31,80.06,81,True
+PROD00050,PrimeChoice Garden Tools Product 050,Garden & Outdoor,Garden Tools,PrimeChoice,SUP00039,UK,41.44,78.89,96,True
+PROD00051,SmartBuy Plant Care Product 051,Garden & Outdoor,Plant Care,SmartBuy,SUP00016,China,34.94,56.57,38,True
+PROD00052,PrimeChoice Lighting Product 052,Electrical,Lighting,PrimeChoice,SUP00026,India,26.45,49.27,73,True
+PROD00053,HomePro Outdoor Furniture Product 053,Garden & Outdoor,Outdoor Furniture,HomePro,SUP00032,India,7.39,11.49,24,True
+PROD00054,SmartBuy Dog Care Product 054,Pet Care,Dog Care,SmartBuy,SUP00040,UK,119.87,225.87,50,True
+PROD00055,SmartBuy Exterior Paint Product 055,Paints & Decorating,Exterior Paint,SmartBuy,SUP00037,UK,26.05,45.22,69,True
+PROD00056,HomePro BBQ Product 056,Garden & Outdoor,BBQ,HomePro,SUP00004,China,54.22,72.69,57,True
+PROD00057,Everyday Essentials Brushes & Rollers Product 057,Paints & Decorating,Brushes & Rollers,Everyday Essentials,SUP00003,China,20.35,29.53,70,True
+PROD00058,SmartBuy Kitchen Product 058,Homeware,Kitchen,SmartBuy,SUP00033,UK,29.99,58.18,20,True
+PROD00059,Everyday Essentials Pet Accessories Product 059,Pet Care,Pet Accessories,Everyday Essentials,SUP00001,China,29.89,40.5,25,True
+PROD00060,PrimeChoice BBQ Product 060,Garden & Outdoor,BBQ,PrimeChoice,SUP00002,China,28.14,47.92,57,True
+PROD00061,HomePro Cleaning Product 061,Homeware,Cleaning,HomePro,SUP00009,China,103.11,191.52,17,True
+PROD00062,Everyday Essentials Wellness Product 062,Health & Beauty,Wellness,Everyday Essentials,SUP00018,China,2.83,3.92,32,True
+PROD00063,PrimeChoice Pet Accessories Product 063,Pet Care,Pet Accessories,PrimeChoice,SUP00027,India,83.07,124.85,49,True
+PROD00064,ValuePlus Outdoor Furniture Product 064,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00032,India,57.24,110.43,54,True
+PROD00065,PrimeChoice Wallpaper Product 065,Paints & Decorating,Wallpaper,PrimeChoice,SUP00040,UK,40.42,74.29,89,True
+PROD00066,PrimeChoice Personal Care Product 066,Health & Beauty,Personal Care,PrimeChoice,SUP00019,China,72.1,136.29,70,True
+PROD00067,HomePro Storage Product 067,Homeware,Storage,HomePro,SUP00003,China,90.57,147.9,24,True
+PROD00068,ValuePlus Personal Care Product 068,Health & Beauty,Personal Care,ValuePlus,SUP00005,China,34.3,42.56,84,True
+PROD00069,PrimeChoice Skincare Product 069,Health & Beauty,Skincare,PrimeChoice,SUP00008,China,99.18,132.59,25,True
+PROD00070,PrimeChoice Cables Product 070,Electrical,Cables,PrimeChoice,SUP00033,UK,92.79,165.65,76,True
+PROD00071,SmartBuy Dog Care Product 071,Pet Care,Dog Care,SmartBuy,SUP00024,India,97.95,129.48,46,True
+PROD00072,Everyday Essentials Exterior Paint Product 072,Paints & Decorating,Exterior Paint,Everyday Essentials,SUP00007,China,21.1,31.78,32,True
+PROD00073,HomePro Plant Care Product 073,Garden & Outdoor,Plant Care,HomePro,SUP00008,China,43.32,78.02,19,True
+PROD00074,TradeSelect Exterior Paint Product 074,Paints & Decorating,Exterior Paint,TradeSelect,SUP00020,China,20.22,37.35,70,True
+PROD00075,ValuePlus Switches Product 075,Electrical,Switches,ValuePlus,SUP00003,China,20.02,39.04,72,True
+PROD00076,ValuePlus Lighting Product 076,Electrical,Lighting,ValuePlus,SUP00039,UK,93.93,177.46,26,True
+PROD00077,TradeSelect Skincare Product 077,Health & Beauty,Skincare,TradeSelect,SUP00015,China,55.28,69.77,99,True
+PROD00078,Everyday Essentials Garden Tools Product 078,Garden & Outdoor,Garden Tools,Everyday Essentials,SUP00027,India,17.58,25.1,71,True
+PROD00079,PrimeChoice Kitchen Product 079,Homeware,Kitchen,PrimeChoice,SUP00020,China,35.22,46.77,81,True
+PROD00080,PrimeChoice Interior Paint Product 080,Paints & Decorating,Interior Paint,PrimeChoice,SUP00025,India,40.12,63.34,93,True
+PROD00081,PrimeChoice Hair Care Product 081,Health & Beauty,Hair Care,PrimeChoice,SUP00017,China,81.15,127.83,33,True
+PROD00082,PrimeChoice Interior Paint Product 082,Paints & Decorating,Interior Paint,PrimeChoice,SUP00010,China,91.06,138.63,36,True
+PROD00083,ValuePlus Bathroom Product 083,Homeware,Bathroom,ValuePlus,SUP00011,China,95.92,184.07,81,True
+PROD00084,TradeSelect Garden Tools Product 084,Garden & Outdoor,Garden Tools,TradeSelect,SUP00023,India,26.57,49.21,17,True
+PROD00085,ValuePlus BBQ Product 085,Garden & Outdoor,BBQ,ValuePlus,SUP00033,UK,92.8,141.61,84,True
+PROD00086,Everyday Essentials Kitchen Product 086,Homeware,Kitchen,Everyday Essentials,SUP00016,China,102.57,142.35,41,True
+PROD00087,Everyday Essentials Cat Care Product 087,Pet Care,Cat Care,Everyday Essentials,SUP00040,UK,69.7,124.54,26,True
+PROD00088,HomePro Dog Care Product 088,Pet Care,Dog Care,HomePro,SUP00010,China,21.56,31.21,46,True
+PROD00089,ValuePlus Skincare Product 089,Health & Beauty,Skincare,ValuePlus,SUP00015,China,62.91,99.7,13,True
+PROD00090,HomePro Switches Product 090,Electrical,Switches,HomePro,SUP00014,China,65.54,125.29,49,True
+PROD00091,ValuePlus Wellness Product 091,Health & Beauty,Wellness,ValuePlus,SUP00003,China,35.39,56.89,82,True
+PROD00092,PrimeChoice Cleaning Product 092,Homeware,Cleaning,PrimeChoice,SUP00037,UK,75.09,90.87,98,True
+PROD00093,HomePro BBQ Product 093,Garden & Outdoor,BBQ,HomePro,SUP00017,China,47.1,78.36,75,True
+PROD00094,PrimeChoice Wellness Product 094,Health & Beauty,Wellness,PrimeChoice,SUP00017,China,82.1,100.19,50,True
+PROD00095,TradeSelect Skincare Product 095,Health & Beauty,Skincare,TradeSelect,SUP00031,India,110.22,153.36,87,True
+PROD00096,PrimeChoice Hair Care Product 096,Health & Beauty,Hair Care,PrimeChoice,SUP00014,China,28.02,47.19,21,True
+PROD00097,PrimeChoice Bathroom Product 097,Homeware,Bathroom,PrimeChoice,SUP00015,China,115.57,154.85,62,True
+PROD00098,TradeSelect Interior Paint Product 098,Paints & Decorating,Interior Paint,TradeSelect,SUP00023,India,65.43,84.39,58,True
+PROD00099,TradeSelect Bathroom Product 099,Homeware,Bathroom,TradeSelect,SUP00027,India,10.55,18.65,97,True
+PROD00100,ValuePlus Cables Product 100,Electrical,Cables,ValuePlus,SUP00022,India,76.08,149.79,86,True
+PROD00101,Everyday Essentials Bathroom Product 101,Homeware,Bathroom,Everyday Essentials,SUP00010,China,119.35,174.58,99,True
+PROD00102,TradeSelect BBQ Product 102,Garden & Outdoor,BBQ,TradeSelect,SUP00009,China,83.97,115.41,31,True
+PROD00103,SmartBuy Wallpaper Product 103,Paints & Decorating,Wallpaper,SmartBuy,SUP00039,UK,24.71,43.62,71,True
+PROD00104,ValuePlus Interior Paint Product 104,Paints & Decorating,Interior Paint,ValuePlus,SUP00022,India,97.35,177.25,47,True
+PROD00105,HomePro Cleaning Product 105,Homeware,Cleaning,HomePro,SUP00010,China,68.47,100.04,72,True
+PROD00106,PrimeChoice Garden Tools Product 106,Garden & Outdoor,Garden Tools,PrimeChoice,SUP00009,China,28.46,46.56,28,True
+PROD00107,HomePro Personal Care Product 107,Health & Beauty,Personal Care,HomePro,SUP00015,China,74.34,135.69,55,True
+PROD00108,SmartBuy Bathroom Product 108,Homeware,Bathroom,SmartBuy,SUP00004,China,46.01,89.59,75,True
+PROD00109,PrimeChoice BBQ Product 109,Garden & Outdoor,BBQ,PrimeChoice,SUP00016,China,63.48,109.14,63,True
+PROD00110,Everyday Essentials Dog Care Product 110,Pet Care,Dog Care,Everyday Essentials,SUP00016,China,38.98,69.75,62,True
+PROD00111,Everyday Essentials Pet Accessories Product 111,Pet Care,Pet Accessories,Everyday Essentials,SUP00011,China,93.28,132.47,55,True
+PROD00112,HomePro Outdoor Furniture Product 112,Garden & Outdoor,Outdoor Furniture,HomePro,SUP00006,China,15.08,25.43,80,True
+PROD00113,PrimeChoice Wallpaper Product 113,Paints & Decorating,Wallpaper,PrimeChoice,SUP00006,China,56.91,101.19,83,True
+PROD00114,PrimeChoice Plant Care Product 114,Garden & Outdoor,Plant Care,PrimeChoice,SUP00012,China,39.01,50.29,79,True
+PROD00115,Everyday Essentials Small Electrical Product 115,Electrical,Small Electrical,Everyday Essentials,SUP00020,China,93.81,182.52,50,True
+PROD00116,ValuePlus Personal Care Product 116,Health & Beauty,Personal Care,ValuePlus,SUP00039,UK,17.71,31.9,86,True
+PROD00117,HomePro Personal Care Product 117,Health & Beauty,Personal Care,HomePro,SUP00024,India,97.57,152.39,21,True
+PROD00118,SmartBuy BBQ Product 118,Garden & Outdoor,BBQ,SmartBuy,SUP00031,India,50.99,67.18,13,True
+PROD00119,HomePro Cables Product 119,Electrical,Cables,HomePro,SUP00011,China,11.82,23.43,29,True
+PROD00120,Everyday Essentials Cables Product 120,Electrical,Cables,Everyday Essentials,SUP00021,India,109.58,187.26,51,True
+PROD00121,HomePro Small Electrical Product 121,Electrical,Small Electrical,HomePro,SUP00003,China,72.97,127.34,63,True
+PROD00122,SmartBuy Dog Care Product 122,Pet Care,Dog Care,SmartBuy,SUP00026,India,60.08,79.1,94,True
+PROD00123,SmartBuy Switches Product 123,Electrical,Switches,SmartBuy,SUP00002,China,10.5,14.35,97,True
+PROD00124,TradeSelect Dog Care Product 124,Pet Care,Dog Care,TradeSelect,SUP00022,India,32.58,51.14,94,True
+PROD00125,ValuePlus Bathroom Product 125,Homeware,Bathroom,ValuePlus,SUP00004,China,70.43,90.57,44,True
+PROD00126,ValuePlus BBQ Product 126,Garden & Outdoor,BBQ,ValuePlus,SUP00001,China,93.41,168.81,57,True
+PROD00127,SmartBuy Interior Paint Product 127,Paints & Decorating,Interior Paint,SmartBuy,SUP00009,China,71.25,100.63,38,True
+PROD00128,Everyday Essentials Bathroom Product 128,Homeware,Bathroom,Everyday Essentials,SUP00037,UK,104.87,207.41,10,True
+PROD00129,PrimeChoice Brushes & Rollers Product 129,Paints & Decorating,Brushes & Rollers,PrimeChoice,SUP00038,UK,82.79,142.31,75,True
+PROD00130,PrimeChoice Outdoor Furniture Product 130,Garden & Outdoor,Outdoor Furniture,PrimeChoice,SUP00024,India,50.93,79.11,48,True
+PROD00131,Everyday Essentials Hair Care Product 131,Health & Beauty,Hair Care,Everyday Essentials,SUP00014,China,18.56,33.92,74,True
+PROD00132,TradeSelect Bathroom Product 132,Homeware,Bathroom,TradeSelect,SUP00012,China,75.66,148.14,74,True
+PROD00133,Everyday Essentials Plant Care Product 133,Garden & Outdoor,Plant Care,Everyday Essentials,SUP00011,China,8.02,15.73,68,True
+PROD00134,PrimeChoice Wallpaper Product 134,Paints & Decorating,Wallpaper,PrimeChoice,SUP00015,China,13.23,17.48,12,True
+PROD00135,ValuePlus Plant Care Product 135,Garden & Outdoor,Plant Care,ValuePlus,SUP00009,China,34.12,65.54,16,True
+PROD00136,HomePro Pet Accessories Product 136,Pet Care,Pet Accessories,HomePro,SUP00004,China,7.39,13.16,83,True
+PROD00137,ValuePlus Brushes & Rollers Product 137,Paints & Decorating,Brushes & Rollers,ValuePlus,SUP00030,India,20.2,25.72,100,True
+PROD00138,ValuePlus Outdoor Furniture Product 138,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00014,China,97.02,159.61,78,True
+PROD00139,Everyday Essentials Bathroom Product 139,Homeware,Bathroom,Everyday Essentials,SUP00004,China,22.75,39.1,12,True
+PROD00140,SmartBuy Skincare Product 140,Health & Beauty,Skincare,SmartBuy,SUP00012,China,75.98,121.3,55,True
+PROD00141,PrimeChoice Storage Product 141,Homeware,Storage,PrimeChoice,SUP00026,India,5.06,7.3,56,True
+PROD00142,HomePro Pet Accessories Product 142,Pet Care,Pet Accessories,HomePro,SUP00016,China,106.53,147.07,35,True
+PROD00143,SmartBuy BBQ Product 143,Garden & Outdoor,BBQ,SmartBuy,SUP00015,China,64.12,84.1,74,True
+PROD00144,TradeSelect Storage Product 144,Homeware,Storage,TradeSelect,SUP00003,China,69.23,112.05,23,True
+PROD00145,PrimeChoice Exterior Paint Product 145,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00019,China,51.41,79.04,83,True
+PROD00146,HomePro Skincare Product 146,Health & Beauty,Skincare,HomePro,SUP00032,India,119.82,233.11,87,True
+PROD00147,Everyday Essentials Cleaning Product 147,Homeware,Cleaning,Everyday Essentials,SUP00001,China,77.82,134.22,73,True
+PROD00148,SmartBuy Dog Care Product 148,Pet Care,Dog Care,SmartBuy,SUP00018,China,40.81,63.02,70,True
+PROD00149,ValuePlus Cleaning Product 149,Homeware,Cleaning,ValuePlus,SUP00027,India,113.69,224.83,68,True
+PROD00150,TradeSelect Bathroom Product 150,Homeware,Bathroom,TradeSelect,SUP00030,India,113.6,179.4,68,True
+PROD00151,HomePro Cat Care Product 151,Pet Care,Cat Care,HomePro,SUP00015,China,89.58,148.2,95,False
+PROD00152,Everyday Essentials Storage Product 152,Homeware,Storage,Everyday Essentials,SUP00002,China,45.6,63.68,82,True
+PROD00153,ValuePlus Exterior Paint Product 153,Paints & Decorating,Exterior Paint,ValuePlus,SUP00032,India,59.19,108.04,55,True
+PROD00154,Everyday Essentials Hair Care Product 154,Health & Beauty,Hair Care,Everyday Essentials,SUP00020,China,41.63,79.38,31,False
+PROD00155,SmartBuy Cat Care Product 155,Pet Care,Cat Care,SmartBuy,SUP00023,India,2.98,4.57,14,True
+PROD00156,HomePro Personal Care Product 156,Health & Beauty,Personal Care,HomePro,SUP00037,UK,88.3,176.19,28,True
+PROD00157,PrimeChoice Storage Product 157,Homeware,Storage,PrimeChoice,SUP00032,India,10.04,18.92,68,True
+PROD00158,Everyday Essentials Wallpaper Product 158,Paints & Decorating,Wallpaper,Everyday Essentials,SUP00039,UK,102.67,123.92,31,True
+PROD00159,TradeSelect Small Electrical Product 159,Electrical,Small Electrical,TradeSelect,SUP00028,India,23.22,41.1,50,True
+PROD00160,TradeSelect BBQ Product 160,Garden & Outdoor,BBQ,TradeSelect,SUP00009,China,107.39,205.14,80,True
+PROD00161,SmartBuy BBQ Product 161,Garden & Outdoor,BBQ,SmartBuy,SUP00026,India,108.79,145.22,16,True
+PROD00162,TradeSelect Hair Care Product 162,Health & Beauty,Hair Care,TradeSelect,SUP00019,China,114.6,225.07,23,True
+PROD00163,SmartBuy Skincare Product 163,Health & Beauty,Skincare,SmartBuy,SUP00011,China,73.67,128.07,88,True
+PROD00164,TradeSelect Interior Paint Product 164,Paints & Decorating,Interior Paint,TradeSelect,SUP00018,China,84.53,138.75,11,True
+PROD00165,PrimeChoice Kitchen Product 165,Homeware,Kitchen,PrimeChoice,SUP00003,China,6.67,11.05,76,True
+PROD00166,PrimeChoice Interior Paint Product 166,Paints & Decorating,Interior Paint,PrimeChoice,SUP00024,India,89.62,173.59,84,True
+PROD00167,PrimeChoice Brushes & Rollers Product 167,Paints & Decorating,Brushes & Rollers,PrimeChoice,SUP00006,China,113.33,181.7,53,True
+PROD00168,SmartBuy Cat Care Product 168,Pet Care,Cat Care,SmartBuy,SUP00031,India,56.39,69.09,43,True
+PROD00169,HomePro Wellness Product 169,Health & Beauty,Wellness,HomePro,SUP00008,China,109.98,181.16,40,True
+PROD00170,Everyday Essentials Outdoor Furniture Product 170,Garden & Outdoor,Outdoor Furniture,Everyday Essentials,SUP00023,India,116.77,205.51,75,False
+PROD00171,Everyday Essentials Lighting Product 171,Electrical,Lighting,Everyday Essentials,SUP00021,India,61.99,103.74,25,True
+PROD00172,PrimeChoice Wellness Product 172,Health & Beauty,Wellness,PrimeChoice,SUP00024,India,26.31,40.55,39,True
+PROD00173,ValuePlus Skincare Product 173,Health & Beauty,Skincare,ValuePlus,SUP00028,India,23.74,43.24,82,True
+PROD00174,TradeSelect Wellness Product 174,Health & Beauty,Wellness,TradeSelect,SUP00004,China,101.09,123.99,83,True
+PROD00175,ValuePlus Outdoor Furniture Product 175,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00001,China,17.42,30.63,66,True
+PROD00176,HomePro Exterior Paint Product 176,Paints & Decorating,Exterior Paint,HomePro,SUP00022,India,37.79,45.64,52,True
+PROD00177,TradeSelect Cat Care Product 177,Pet Care,Cat Care,TradeSelect,SUP00003,China,111.93,167.83,11,True
+PROD00178,ValuePlus Small Electrical Product 178,Electrical,Small Electrical,ValuePlus,SUP00008,China,8.42,10.77,31,True
+PROD00179,HomePro Pet Food Product 179,Pet Care,Pet Food,HomePro,SUP00036,UK,97.28,168.16,83,True
+PROD00180,TradeSelect Switches Product 180,Electrical,Switches,TradeSelect,SUP00006,China,44.98,83.61,53,True
+PROD00181,PrimeChoice Plant Care Product 181,Garden & Outdoor,Plant Care,PrimeChoice,SUP00017,China,66.48,118.42,57,True
+PROD00182,ValuePlus Brushes & Rollers Product 182,Paints & Decorating,Brushes & Rollers,ValuePlus,SUP00029,India,44.65,65.97,85,True
+PROD00183,ValuePlus Plant Care Product 183,Garden & Outdoor,Plant Care,ValuePlus,SUP00029,India,72.05,114.39,19,True
+PROD00184,Everyday Essentials Exterior Paint Product 184,Paints & Decorating,Exterior Paint,Everyday Essentials,SUP00033,UK,72.08,139.41,12,True
+PROD00185,ValuePlus Bathroom Product 185,Homeware,Bathroom,ValuePlus,SUP00026,India,21.74,42.57,20,True
+PROD00186,ValuePlus Plant Care Product 186,Garden & Outdoor,Plant Care,ValuePlus,SUP00013,China,91.13,157.64,39,True
+PROD00187,TradeSelect Wallpaper Product 187,Paints & Decorating,Wallpaper,TradeSelect,SUP00038,UK,11.35,15.5,60,True
+PROD00188,Everyday Essentials Lighting Product 188,Electrical,Lighting,Everyday Essentials,SUP00005,China,97.66,176.48,51,True
+PROD00189,SmartBuy Storage Product 189,Homeware,Storage,SmartBuy,SUP00017,China,8.19,12.85,65,True
+PROD00190,PrimeChoice Outdoor Furniture Product 190,Garden & Outdoor,Outdoor Furniture,PrimeChoice,SUP00026,India,46.44,74.69,78,True
+PROD00191,TradeSelect Kitchen Product 191,Homeware,Kitchen,TradeSelect,SUP00019,China,45.16,66.42,80,True
+PROD00192,HomePro Cat Care Product 192,Pet Care,Cat Care,HomePro,SUP00014,China,6.0,7.95,54,True
+PROD00193,HomePro Wellness Product 193,Health & Beauty,Wellness,HomePro,SUP00038,UK,58.58,70.94,47,True
+PROD00194,TradeSelect Bathroom Product 194,Homeware,Bathroom,TradeSelect,SUP00003,China,79.58,141.52,78,True
+PROD00195,ValuePlus Bathroom Product 195,Homeware,Bathroom,ValuePlus,SUP00008,China,15.5,28.81,12,False
+PROD00196,TradeSelect Cleaning Product 196,Homeware,Cleaning,TradeSelect,SUP00033,UK,71.31,123.5,54,True
+PROD00197,Everyday Essentials Small Electrical Product 197,Electrical,Small Electrical,Everyday Essentials,SUP00014,China,82.63,138.37,80,True
+PROD00198,Everyday Essentials Hair Care Product 198,Health & Beauty,Hair Care,Everyday Essentials,SUP00021,India,29.48,58.82,86,True
+PROD00199,PrimeChoice Hair Care Product 199,Health & Beauty,Hair Care,PrimeChoice,SUP00038,UK,45.13,82.67,96,True
+PROD00200,PrimeChoice Outdoor Furniture Product 200,Garden & Outdoor,Outdoor Furniture,PrimeChoice,SUP00033,UK,51.64,81.39,49,True
+PROD00201,PrimeChoice Cat Care Product 201,Pet Care,Cat Care,PrimeChoice,SUP00036,UK,77.04,95.19,34,True
+PROD00202,PrimeChoice Cat Care Product 202,Pet Care,Cat Care,PrimeChoice,SUP00015,China,14.2,20.81,46,False
+PROD00203,SmartBuy Cables Product 203,Electrical,Cables,SmartBuy,SUP00031,India,38.68,70.83,36,True
+PROD00204,SmartBuy Interior Paint Product 204,Paints & Decorating,Interior Paint,SmartBuy,SUP00019,China,77.04,152.4,88,True
+PROD00205,TradeSelect BBQ Product 205,Garden & Outdoor,BBQ,TradeSelect,SUP00023,India,97.15,161.75,84,True
+PROD00206,ValuePlus Small Electrical Product 206,Electrical,Small Electrical,ValuePlus,SUP00032,India,22.85,36.54,14,True
+PROD00207,HomePro Kitchen Product 207,Homeware,Kitchen,HomePro,SUP00012,China,16.15,25.14,97,True
+PROD00208,ValuePlus Personal Care Product 208,Health & Beauty,Personal Care,ValuePlus,SUP00026,India,103.96,170.63,35,True
+PROD00209,TradeSelect Pet Accessories Product 209,Pet Care,Pet Accessories,TradeSelect,SUP00039,UK,55.14,67.02,78,True
+PROD00210,HomePro Lighting Product 210,Electrical,Lighting,HomePro,SUP00002,China,11.86,17.7,73,True
+PROD00211,PrimeChoice Kitchen Product 211,Homeware,Kitchen,PrimeChoice,SUP00031,India,15.04,18.54,34,True
+PROD00212,PrimeChoice Switches Product 212,Electrical,Switches,PrimeChoice,SUP00027,India,26.65,37.98,65,True
+PROD00213,SmartBuy Plant Care Product 213,Garden & Outdoor,Plant Care,SmartBuy,SUP00023,India,45.71,84.13,32,True
+PROD00214,TradeSelect Brushes & Rollers Product 214,Paints & Decorating,Brushes & Rollers,TradeSelect,SUP00004,China,61.41,101.91,34,True
+PROD00215,SmartBuy Outdoor Furniture Product 215,Garden & Outdoor,Outdoor Furniture,SmartBuy,SUP00019,China,27.14,52.29,14,True
+PROD00216,Everyday Essentials Kitchen Product 216,Homeware,Kitchen,Everyday Essentials,SUP00020,China,99.55,137.73,49,True
+PROD00217,HomePro Garden Tools Product 217,Garden & Outdoor,Garden Tools,HomePro,SUP00005,China,68.1,127.42,50,True
+PROD00218,HomePro Switches Product 218,Electrical,Switches,HomePro,SUP00032,India,94.35,183.93,79,False
+PROD00219,Everyday Essentials Plant Care Product 219,Garden & Outdoor,Plant Care,Everyday Essentials,SUP00022,India,43.1,61.18,90,True
+PROD00220,Everyday Essentials Personal Care Product 220,Health & Beauty,Personal Care,Everyday Essentials,SUP00037,UK,56.26,70.98,58,True
+PROD00221,Everyday Essentials Garden Tools Product 221,Garden & Outdoor,Garden Tools,Everyday Essentials,SUP00040,UK,15.25,26.61,17,True
+PROD00222,SmartBuy Plant Care Product 222,Garden & Outdoor,Plant Care,SmartBuy,SUP00008,China,44.6,54.5,81,True
+PROD00223,HomePro Lighting Product 223,Electrical,Lighting,HomePro,SUP00010,China,117.44,182.36,53,True
+PROD00224,ValuePlus Hair Care Product 224,Health & Beauty,Hair Care,ValuePlus,SUP00017,China,51.76,92.66,54,True
+PROD00225,SmartBuy Garden Tools Product 225,Garden & Outdoor,Garden Tools,SmartBuy,SUP00010,China,67.86,107.74,29,True
+PROD00226,HomePro Kitchen Product 226,Homeware,Kitchen,HomePro,SUP00039,UK,104.64,145.83,49,True
+PROD00227,HomePro Outdoor Furniture Product 227,Garden & Outdoor,Outdoor Furniture,HomePro,SUP00034,UK,17.79,35.09,91,True
+PROD00228,PrimeChoice Skincare Product 228,Health & Beauty,Skincare,PrimeChoice,SUP00031,India,19.85,25.27,57,True
+PROD00229,ValuePlus Pet Accessories Product 229,Pet Care,Pet Accessories,ValuePlus,SUP00024,India,85.21,127.35,34,True
+PROD00230,Everyday Essentials Outdoor Furniture Product 230,Garden & Outdoor,Outdoor Furniture,Everyday Essentials,SUP00010,China,27.99,44.83,61,True
+PROD00231,ValuePlus Pet Food Product 231,Pet Care,Pet Food,ValuePlus,SUP00026,India,19.42,29.22,35,True
+PROD00232,TradeSelect Wellness Product 232,Health & Beauty,Wellness,TradeSelect,SUP00029,India,89.14,126.25,16,True
+PROD00233,HomePro Kitchen Product 233,Homeware,Kitchen,HomePro,SUP00015,China,68.6,127.44,35,True
+PROD00234,HomePro Wallpaper Product 234,Paints & Decorating,Wallpaper,HomePro,SUP00004,China,90.25,115.94,55,True
+PROD00235,TradeSelect BBQ Product 235,Garden & Outdoor,BBQ,TradeSelect,SUP00023,India,73.07,99.76,81,True
+PROD00236,TradeSelect Small Electrical Product 236,Electrical,Small Electrical,TradeSelect,SUP00032,India,68.5,120.44,16,True
+PROD00237,SmartBuy Switches Product 237,Electrical,Switches,SmartBuy,SUP00013,China,82.87,125.47,55,True
+PROD00238,HomePro Dog Care Product 238,Pet Care,Dog Care,HomePro,SUP00018,China,84.52,154.94,57,True
+PROD00239,HomePro Brushes & Rollers Product 239,Paints & Decorating,Brushes & Rollers,HomePro,SUP00040,UK,29.73,40.45,96,True
+PROD00240,TradeSelect Cables Product 240,Electrical,Cables,TradeSelect,SUP00029,India,13.56,16.52,30,True
+PROD00241,HomePro Storage Product 241,Homeware,Storage,HomePro,SUP00020,China,68.68,135.0,42,True
+PROD00242,PrimeChoice Pet Food Product 242,Pet Care,Pet Food,PrimeChoice,SUP00023,India,72.81,118.75,51,True
+PROD00243,PrimeChoice Interior Paint Product 243,Paints & Decorating,Interior Paint,PrimeChoice,SUP00018,China,85.88,128.52,28,True
+PROD00244,TradeSelect Plant Care Product 244,Garden & Outdoor,Plant Care,TradeSelect,SUP00032,India,106.44,193.26,31,True
+PROD00245,PrimeChoice Outdoor Furniture Product 245,Garden & Outdoor,Outdoor Furniture,PrimeChoice,SUP00007,China,62.66,113.27,17,True
+PROD00246,SmartBuy BBQ Product 246,Garden & Outdoor,BBQ,SmartBuy,SUP00003,China,43.68,82.39,79,True
+PROD00247,Everyday Essentials Wallpaper Product 247,Paints & Decorating,Wallpaper,Everyday Essentials,SUP00039,UK,83.95,129.8,13,True
+PROD00248,PrimeChoice Skincare Product 248,Health & Beauty,Skincare,PrimeChoice,SUP00008,China,15.43,20.26,23,True
+PROD00249,TradeSelect Dog Care Product 249,Pet Care,Dog Care,TradeSelect,SUP00026,India,100.69,190.35,75,True
+PROD00250,ValuePlus Pet Food Product 250,Pet Care,Pet Food,ValuePlus,SUP00008,China,109.34,141.07,58,True
+PROD00251,TradeSelect Small Electrical Product 251,Electrical,Small Electrical,TradeSelect,SUP00015,China,90.83,142.85,43,True
+PROD00252,HomePro Brushes & Rollers Product 252,Paints & Decorating,Brushes & Rollers,HomePro,SUP00033,UK,25.37,35.2,67,True
+PROD00253,HomePro Brushes & Rollers Product 253,Paints & Decorating,Brushes & Rollers,HomePro,SUP00022,India,12.72,19.19,20,True
+PROD00254,Everyday Essentials Small Electrical Product 254,Electrical,Small Electrical,Everyday Essentials,SUP00003,China,25.18,35.0,86,True
+PROD00255,TradeSelect BBQ Product 255,Garden & Outdoor,BBQ,TradeSelect,SUP00033,UK,51.06,74.88,77,True
+PROD00256,PrimeChoice Pet Food Product 256,Pet Care,Pet Food,PrimeChoice,SUP00040,UK,46.23,78.96,78,True
+PROD00257,HomePro Wellness Product 257,Health & Beauty,Wellness,HomePro,SUP00018,China,71.31,88.99,18,True
+PROD00258,SmartBuy Plant Care Product 258,Garden & Outdoor,Plant Care,SmartBuy,SUP00010,China,29.11,56.03,60,True
+PROD00259,HomePro Pet Food Product 259,Pet Care,Pet Food,HomePro,SUP00025,India,90.55,171.32,65,True
+PROD00260,SmartBuy Skincare Product 260,Health & Beauty,Skincare,SmartBuy,SUP00025,India,116.38,231.06,53,True
+PROD00261,SmartBuy Pet Food Product 261,Pet Care,Pet Food,SmartBuy,SUP00006,China,108.12,140.75,73,True
+PROD00262,TradeSelect Dog Care Product 262,Pet Care,Dog Care,TradeSelect,SUP00009,China,50.87,73.53,33,True
+PROD00263,ValuePlus Dog Care Product 263,Pet Care,Dog Care,ValuePlus,SUP00019,China,19.29,37.05,49,True
+PROD00264,PrimeChoice Plant Care Product 264,Garden & Outdoor,Plant Care,PrimeChoice,SUP00036,UK,76.58,146.79,23,True
+PROD00265,TradeSelect Switches Product 265,Electrical,Switches,TradeSelect,SUP00024,India,108.21,207.66,22,True
+PROD00266,SmartBuy Wallpaper Product 266,Paints & Decorating,Wallpaper,SmartBuy,SUP00031,India,107.04,197.62,76,True
+PROD00267,PrimeChoice Switches Product 267,Electrical,Switches,PrimeChoice,SUP00014,China,91.02,179.65,85,True
+PROD00268,SmartBuy Outdoor Furniture Product 268,Garden & Outdoor,Outdoor Furniture,SmartBuy,SUP00003,China,88.14,161.57,74,True
+PROD00269,TradeSelect Exterior Paint Product 269,Paints & Decorating,Exterior Paint,TradeSelect,SUP00035,UK,78.61,153.48,72,True
+PROD00270,Everyday Essentials Exterior Paint Product 270,Paints & Decorating,Exterior Paint,Everyday Essentials,SUP00040,UK,60.49,120.71,90,True
+PROD00271,PrimeChoice Personal Care Product 271,Health & Beauty,Personal Care,PrimeChoice,SUP00022,India,117.4,186.12,50,True
+PROD00272,HomePro Bathroom Product 272,Homeware,Bathroom,HomePro,SUP00025,India,100.94,175.48,39,True
+PROD00273,PrimeChoice Cables Product 273,Electrical,Cables,PrimeChoice,SUP00023,India,57.25,69.18,58,True
+PROD00274,HomePro Pet Accessories Product 274,Pet Care,Pet Accessories,HomePro,SUP00029,India,116.04,160.35,22,True
+PROD00275,Everyday Essentials Personal Care Product 275,Health & Beauty,Personal Care,Everyday Essentials,SUP00034,UK,48.24,61.49,84,True
+PROD00276,PrimeChoice Exterior Paint Product 276,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00021,India,104.11,198.57,31,True
+PROD00277,HomePro Pet Food Product 277,Pet Care,Pet Food,HomePro,SUP00036,UK,15.98,28.79,38,True
+PROD00278,TradeSelect Cat Care Product 278,Pet Care,Cat Care,TradeSelect,SUP00031,India,13.12,22.05,52,True
+PROD00279,PrimeChoice Personal Care Product 279,Health & Beauty,Personal Care,PrimeChoice,SUP00032,India,24.11,39.04,49,True
+PROD00280,TradeSelect Bathroom Product 280,Homeware,Bathroom,TradeSelect,SUP00014,China,74.62,130.13,25,True
+PROD00281,Everyday Essentials Plant Care Product 281,Garden & Outdoor,Plant Care,Everyday Essentials,SUP00029,India,16.69,21.47,45,True
+PROD00282,ValuePlus Outdoor Furniture Product 282,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00020,China,11.64,22.12,60,True
+PROD00283,SmartBuy Hair Care Product 283,Health & Beauty,Hair Care,SmartBuy,SUP00001,China,42.24,84.05,21,True
+PROD00284,PrimeChoice Interior Paint Product 284,Paints & Decorating,Interior Paint,PrimeChoice,SUP00022,India,49.6,67.8,98,True
+PROD00285,PrimeChoice Plant Care Product 285,Garden & Outdoor,Plant Care,PrimeChoice,SUP00027,India,113.07,160.48,77,True
+PROD00286,PrimeChoice Exterior Paint Product 286,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00032,India,90.58,123.79,87,True
+PROD00287,HomePro Brushes & Rollers Product 287,Paints & Decorating,Brushes & Rollers,HomePro,SUP00016,China,92.82,176.16,80,True
+PROD00288,HomePro Small Electrical Product 288,Electrical,Small Electrical,HomePro,SUP00016,China,19.89,38.75,40,True
+PROD00289,PrimeChoice Pet Accessories Product 289,Pet Care,Pet Accessories,PrimeChoice,SUP00011,China,10.53,15.5,53,True
+PROD00290,TradeSelect Wellness Product 290,Health & Beauty,Wellness,TradeSelect,SUP00019,China,95.94,171.28,36,True
+PROD00291,ValuePlus Switches Product 291,Electrical,Switches,ValuePlus,SUP00006,China,119.54,161.17,79,True
+PROD00292,TradeSelect Wallpaper Product 292,Paints & Decorating,Wallpaper,TradeSelect,SUP00022,India,22.67,32.94,66,True
+PROD00293,TradeSelect Personal Care Product 293,Health & Beauty,Personal Care,TradeSelect,SUP00004,China,16.96,25.16,67,True
+PROD00294,PrimeChoice Personal Care Product 294,Health & Beauty,Personal Care,PrimeChoice,SUP00005,China,37.38,72.62,52,True
+PROD00295,TradeSelect Storage Product 295,Homeware,Storage,TradeSelect,SUP00028,India,73.28,129.21,80,True
+PROD00296,Everyday Essentials Storage Product 296,Homeware,Storage,Everyday Essentials,SUP00010,China,5.44,9.57,95,True
+PROD00297,ValuePlus Cat Care Product 297,Pet Care,Cat Care,ValuePlus,SUP00032,India,43.07,67.05,12,True
+PROD00298,TradeSelect Kitchen Product 298,Homeware,Kitchen,TradeSelect,SUP00026,India,97.84,161.23,71,True
+PROD00299,TradeSelect Pet Accessories Product 299,Pet Care,Pet Accessories,TradeSelect,SUP00009,China,64.68,118.42,54,True
+PROD00300,SmartBuy Wellness Product 300,Health & Beauty,Wellness,SmartBuy,SUP00031,India,70.93,135.61,47,True
+PROD00301,Everyday Essentials Pet Accessories Product 301,Pet Care,Pet Accessories,Everyday Essentials,SUP00005,China,38.81,48.03,32,True
+PROD00302,PrimeChoice Storage Product 302,Homeware,Storage,PrimeChoice,SUP00021,India,106.49,140.98,17,True
+PROD00303,SmartBuy Cat Care Product 303,Pet Care,Cat Care,SmartBuy,SUP00019,China,110.75,194.8,23,True
+PROD00304,TradeSelect Hair Care Product 304,Health & Beauty,Hair Care,TradeSelect,SUP00017,China,4.48,6.6,24,True
+PROD00305,Everyday Essentials Plant Care Product 305,Garden & Outdoor,Plant Care,Everyday Essentials,SUP00037,UK,17.13,21.16,73,True
+PROD00306,ValuePlus Plant Care Product 306,Garden & Outdoor,Plant Care,ValuePlus,SUP00004,China,93.92,187.42,57,True
+PROD00307,ValuePlus Bathroom Product 307,Homeware,Bathroom,ValuePlus,SUP00029,India,115.49,223.91,97,True
+PROD00308,PrimeChoice Storage Product 308,Homeware,Storage,PrimeChoice,SUP00010,China,6.64,8.61,57,True
+PROD00309,Everyday Essentials Lighting Product 309,Electrical,Lighting,Everyday Essentials,SUP00012,China,24.49,44.22,80,True
+PROD00310,TradeSelect Outdoor Furniture Product 310,Garden & Outdoor,Outdoor Furniture,TradeSelect,SUP00008,China,56.25,96.96,91,True
+PROD00311,ValuePlus Pet Accessories Product 311,Pet Care,Pet Accessories,ValuePlus,SUP00007,China,20.86,34.71,75,True
+PROD00312,PrimeChoice Brushes & Rollers Product 312,Paints & Decorating,Brushes & Rollers,PrimeChoice,SUP00029,India,113.76,191.05,82,True
+PROD00313,PrimeChoice Wallpaper Product 313,Paints & Decorating,Wallpaper,PrimeChoice,SUP00040,UK,57.58,75.97,36,True
+PROD00314,SmartBuy Storage Product 314,Homeware,Storage,SmartBuy,SUP00022,India,40.55,54.47,85,True
+PROD00315,Everyday Essentials Wallpaper Product 315,Paints & Decorating,Wallpaper,Everyday Essentials,SUP00015,China,83.91,133.86,73,True
+PROD00316,ValuePlus Switches Product 316,Electrical,Switches,ValuePlus,SUP00011,China,16.56,30.56,71,True
+PROD00317,ValuePlus Interior Paint Product 317,Paints & Decorating,Interior Paint,ValuePlus,SUP00033,UK,108.02,157.05,89,True
+PROD00318,PrimeChoice Cat Care Product 318,Pet Care,Cat Care,PrimeChoice,SUP00008,China,84.03,143.79,61,True
+PROD00319,TradeSelect Garden Tools Product 319,Garden & Outdoor,Garden Tools,TradeSelect,SUP00039,UK,24.36,31.86,52,True
+PROD00320,ValuePlus Pet Food Product 320,Pet Care,Pet Food,ValuePlus,SUP00004,China,85.25,113.14,88,True
+PROD00321,SmartBuy Brushes & Rollers Product 321,Paints & Decorating,Brushes & Rollers,SmartBuy,SUP00016,China,35.33,68.71,13,True
+PROD00322,HomePro Wellness Product 322,Health & Beauty,Wellness,HomePro,SUP00034,UK,70.27,136.32,32,True
+PROD00323,PrimeChoice Cat Care Product 323,Pet Care,Cat Care,PrimeChoice,SUP00035,UK,17.07,29.17,24,True
+PROD00324,ValuePlus Wallpaper Product 324,Paints & Decorating,Wallpaper,ValuePlus,SUP00018,China,119.9,228.8,87,True
+PROD00325,SmartBuy Plant Care Product 325,Garden & Outdoor,Plant Care,SmartBuy,SUP00002,China,42.02,70.7,21,True
+PROD00326,ValuePlus Cables Product 326,Electrical,Cables,ValuePlus,SUP00030,India,87.14,167.58,55,True
+PROD00327,TradeSelect Small Electrical Product 327,Electrical,Small Electrical,TradeSelect,SUP00011,China,117.3,169.39,70,False
+PROD00328,Everyday Essentials Kitchen Product 328,Homeware,Kitchen,Everyday Essentials,SUP00032,India,46.99,75.1,39,True
+PROD00329,PrimeChoice Brushes & Rollers Product 329,Paints & Decorating,Brushes & Rollers,PrimeChoice,SUP00040,UK,11.94,14.81,48,True
+PROD00330,TradeSelect Personal Care Product 330,Health & Beauty,Personal Care,TradeSelect,SUP00004,China,49.9,65.0,34,True
+PROD00331,Everyday Essentials Small Electrical Product 331,Electrical,Small Electrical,Everyday Essentials,SUP00035,UK,90.19,152.79,40,True
+PROD00332,TradeSelect Cables Product 332,Electrical,Cables,TradeSelect,SUP00033,UK,42.21,55.83,94,False
+PROD00333,PrimeChoice Wellness Product 333,Health & Beauty,Wellness,PrimeChoice,SUP00020,China,105.32,160.55,93,True
+PROD00334,TradeSelect Skincare Product 334,Health & Beauty,Skincare,TradeSelect,SUP00037,UK,98.35,148.88,61,True
+PROD00335,PrimeChoice Brushes & Rollers Product 335,Paints & Decorating,Brushes & Rollers,PrimeChoice,SUP00013,China,116.36,186.59,84,True
+PROD00336,ValuePlus Interior Paint Product 336,Paints & Decorating,Interior Paint,ValuePlus,SUP00012,China,71.75,140.08,30,True
+PROD00337,HomePro Cables Product 337,Electrical,Cables,HomePro,SUP00035,UK,105.76,154.6,41,True
+PROD00338,HomePro Plant Care Product 338,Garden & Outdoor,Plant Care,HomePro,SUP00039,UK,103.48,205.76,58,True
+PROD00339,SmartBuy Plant Care Product 339,Garden & Outdoor,Plant Care,SmartBuy,SUP00032,India,104.7,186.82,82,True
+PROD00340,TradeSelect Pet Accessories Product 340,Pet Care,Pet Accessories,TradeSelect,SUP00009,China,70.3,101.64,97,True
+PROD00341,ValuePlus Kitchen Product 341,Homeware,Kitchen,ValuePlus,SUP00017,China,63.74,113.86,14,True
+PROD00342,Everyday Essentials Pet Food Product 342,Pet Care,Pet Food,Everyday Essentials,SUP00039,UK,93.19,128.8,35,True
+PROD00343,ValuePlus Wellness Product 343,Health & Beauty,Wellness,ValuePlus,SUP00015,China,60.25,120.4,60,True
+PROD00344,TradeSelect BBQ Product 344,Garden & Outdoor,BBQ,TradeSelect,SUP00026,India,42.74,52.27,100,True
+PROD00345,SmartBuy Personal Care Product 345,Health & Beauty,Personal Care,SmartBuy,SUP00023,India,115.31,155.05,14,True
+PROD00346,Everyday Essentials Pet Accessories Product 346,Pet Care,Pet Accessories,Everyday Essentials,SUP00036,UK,104.62,208.15,74,True
+PROD00347,ValuePlus Personal Care Product 347,Health & Beauty,Personal Care,ValuePlus,SUP00020,China,54.96,81.51,93,False
+PROD00348,PrimeChoice Pet Food Product 348,Pet Care,Pet Food,PrimeChoice,SUP00025,India,66.3,97.88,74,True
+PROD00349,SmartBuy Bathroom Product 349,Homeware,Bathroom,SmartBuy,SUP00033,UK,114.5,211.86,37,True
+PROD00350,TradeSelect Kitchen Product 350,Homeware,Kitchen,TradeSelect,SUP00002,China,62.26,98.85,57,True
+PROD00351,Everyday Essentials Pet Food Product 351,Pet Care,Pet Food,Everyday Essentials,SUP00005,China,106.17,180.07,57,True
+PROD00352,Everyday Essentials Switches Product 352,Electrical,Switches,Everyday Essentials,SUP00007,China,42.83,79.31,67,True
+PROD00353,PrimeChoice Interior Paint Product 353,Paints & Decorating,Interior Paint,PrimeChoice,SUP00023,India,110.39,147.99,18,True
+PROD00354,HomePro Outdoor Furniture Product 354,Garden & Outdoor,Outdoor Furniture,HomePro,SUP00038,UK,79.11,111.99,33,True
+PROD00355,SmartBuy Cables Product 355,Electrical,Cables,SmartBuy,SUP00008,China,61.75,89.74,72,True
+PROD00356,TradeSelect Brushes & Rollers Product 356,Paints & Decorating,Brushes & Rollers,TradeSelect,SUP00028,India,65.6,95.84,32,True
+PROD00357,TradeSelect Pet Food Product 357,Pet Care,Pet Food,TradeSelect,SUP00023,India,99.69,149.0,95,True
+PROD00358,ValuePlus Exterior Paint Product 358,Paints & Decorating,Exterior Paint,ValuePlus,SUP00009,China,114.31,225.39,14,True
+PROD00359,TradeSelect Interior Paint Product 359,Paints & Decorating,Interior Paint,TradeSelect,SUP00023,India,119.24,228.31,56,True
+PROD00360,Everyday Essentials Dog Care Product 360,Pet Care,Dog Care,Everyday Essentials,SUP00022,India,91.97,112.05,35,True
+PROD00361,HomePro Plant Care Product 361,Garden & Outdoor,Plant Care,HomePro,SUP00019,China,41.12,78.9,87,True
+PROD00362,SmartBuy Hair Care Product 362,Health & Beauty,Hair Care,SmartBuy,SUP00015,China,62.8,104.64,20,True
+PROD00363,SmartBuy Wallpaper Product 363,Paints & Decorating,Wallpaper,SmartBuy,SUP00001,China,19.97,27.58,45,True
+PROD00364,ValuePlus Hair Care Product 364,Health & Beauty,Hair Care,ValuePlus,SUP00026,India,70.53,111.91,98,True
+PROD00365,PrimeChoice Lighting Product 365,Electrical,Lighting,PrimeChoice,SUP00024,India,26.95,40.16,76,True
+PROD00366,TradeSelect Brushes & Rollers Product 366,Paints & Decorating,Brushes & Rollers,TradeSelect,SUP00002,China,51.94,85.85,97,True
+PROD00367,TradeSelect Personal Care Product 367,Health & Beauty,Personal Care,TradeSelect,SUP00012,China,93.45,158.05,25,True
+PROD00368,SmartBuy Kitchen Product 368,Homeware,Kitchen,SmartBuy,SUP00019,China,8.19,9.96,15,True
+PROD00369,ValuePlus Dog Care Product 369,Pet Care,Dog Care,ValuePlus,SUP00016,China,72.28,114.06,97,True
+PROD00370,SmartBuy Interior Paint Product 370,Paints & Decorating,Interior Paint,SmartBuy,SUP00021,India,13.56,17.34,35,True
+PROD00371,Everyday Essentials Pet Accessories Product 371,Pet Care,Pet Accessories,Everyday Essentials,SUP00007,China,75.2,90.42,14,True
+PROD00372,Everyday Essentials Pet Accessories Product 372,Pet Care,Pet Accessories,Everyday Essentials,SUP00013,China,68.94,93.33,33,True
+PROD00373,PrimeChoice Bathroom Product 373,Homeware,Bathroom,PrimeChoice,SUP00024,India,39.83,66.6,50,True
+PROD00374,PrimeChoice Dog Care Product 374,Pet Care,Dog Care,PrimeChoice,SUP00025,India,7.02,13.52,39,True
+PROD00375,ValuePlus Exterior Paint Product 375,Paints & Decorating,Exterior Paint,ValuePlus,SUP00020,China,107.45,134.96,13,True
+PROD00376,PrimeChoice Personal Care Product 376,Health & Beauty,Personal Care,PrimeChoice,SUP00001,China,54.85,109.02,33,True
+PROD00377,PrimeChoice Exterior Paint Product 377,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00038,UK,27.59,44.3,79,True
+PROD00378,TradeSelect Interior Paint Product 378,Paints & Decorating,Interior Paint,TradeSelect,SUP00038,UK,45.57,84.98,33,False
+PROD00379,SmartBuy Hair Care Product 379,Health & Beauty,Hair Care,SmartBuy,SUP00008,China,81.91,99.09,12,True
+PROD00380,PrimeChoice Switches Product 380,Electrical,Switches,PrimeChoice,SUP00023,India,42.19,57.26,31,True
+PROD00381,HomePro Pet Food Product 381,Pet Care,Pet Food,HomePro,SUP00035,UK,41.86,69.83,67,True
+PROD00382,HomePro Cat Care Product 382,Pet Care,Cat Care,HomePro,SUP00023,India,77.26,109.04,99,True
+PROD00383,ValuePlus Outdoor Furniture Product 383,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00037,UK,11.61,22.35,19,True
+PROD00384,SmartBuy Cleaning Product 384,Homeware,Cleaning,SmartBuy,SUP00012,China,51.58,66.17,79,True
+PROD00385,Everyday Essentials Skincare Product 385,Health & Beauty,Skincare,Everyday Essentials,SUP00025,India,54.67,105.87,18,True
+PROD00386,SmartBuy Bathroom Product 386,Homeware,Bathroom,SmartBuy,SUP00027,India,27.16,51.54,17,True
+PROD00387,SmartBuy Interior Paint Product 387,Paints & Decorating,Interior Paint,SmartBuy,SUP00032,India,19.4,26.19,11,True
+PROD00388,ValuePlus BBQ Product 388,Garden & Outdoor,BBQ,ValuePlus,SUP00007,China,32.55,45.83,31,True
+PROD00389,Everyday Essentials Wellness Product 389,Health & Beauty,Wellness,Everyday Essentials,SUP00014,China,20.88,26.16,45,True
+PROD00390,Everyday Essentials Small Electrical Product 390,Electrical,Small Electrical,Everyday Essentials,SUP00008,China,84.33,139.09,35,True
+PROD00391,ValuePlus Bathroom Product 391,Homeware,Bathroom,ValuePlus,SUP00001,China,110.32,209.68,37,True
+PROD00392,SmartBuy Bathroom Product 392,Homeware,Bathroom,SmartBuy,SUP00030,India,53.69,85.91,26,True
+PROD00393,TradeSelect Outdoor Furniture Product 393,Garden & Outdoor,Outdoor Furniture,TradeSelect,SUP00029,India,83.05,108.99,49,True
+PROD00394,TradeSelect Pet Accessories Product 394,Pet Care,Pet Accessories,TradeSelect,SUP00037,UK,106.26,142.18,93,True
+PROD00395,Everyday Essentials Dog Care Product 395,Pet Care,Dog Care,Everyday Essentials,SUP00028,India,52.64,81.55,72,True
+PROD00396,HomePro Brushes & Rollers Product 396,Paints & Decorating,Brushes & Rollers,HomePro,SUP00014,China,56.43,104.24,94,True
+PROD00397,SmartBuy Exterior Paint Product 397,Paints & Decorating,Exterior Paint,SmartBuy,SUP00040,UK,64.22,80.19,83,True
+PROD00398,SmartBuy Plant Care Product 398,Garden & Outdoor,Plant Care,SmartBuy,SUP00013,China,77.47,154.71,59,True
+PROD00399,PrimeChoice Switches Product 399,Electrical,Switches,PrimeChoice,SUP00010,China,86.44,134.25,18,True
+PROD00400,PrimeChoice Pet Accessories Product 400,Pet Care,Pet Accessories,PrimeChoice,SUP00014,China,62.68,85.71,38,True
+PROD00401,HomePro Wallpaper Product 401,Paints & Decorating,Wallpaper,HomePro,SUP00013,China,89.18,109.06,65,True
+PROD00402,HomePro Brushes & Rollers Product 402,Paints & Decorating,Brushes & Rollers,HomePro,SUP00005,China,25.74,48.6,52,True
+PROD00403,HomePro BBQ Product 403,Garden & Outdoor,BBQ,HomePro,SUP00037,UK,90.52,158.69,74,True
+PROD00404,TradeSelect Switches Product 404,Electrical,Switches,TradeSelect,SUP00031,India,98.2,157.23,39,True
+PROD00405,ValuePlus Skincare Product 405,Health & Beauty,Skincare,ValuePlus,SUP00032,India,53.12,78.04,100,True
+PROD00406,Everyday Essentials Plant Care Product 406,Garden & Outdoor,Plant Care,Everyday Essentials,SUP00001,China,48.32,59.19,51,True
+PROD00407,SmartBuy Lighting Product 407,Electrical,Lighting,SmartBuy,SUP00003,China,8.33,13.67,47,False
+PROD00408,PrimeChoice Kitchen Product 408,Homeware,Kitchen,PrimeChoice,SUP00034,UK,16.36,20.9,36,True
+PROD00409,SmartBuy Wellness Product 409,Health & Beauty,Wellness,SmartBuy,SUP00030,India,44.2,54.37,45,True
+PROD00410,TradeSelect BBQ Product 410,Garden & Outdoor,BBQ,TradeSelect,SUP00032,India,78.81,143.41,97,True
+PROD00411,TradeSelect Bathroom Product 411,Homeware,Bathroom,TradeSelect,SUP00007,China,91.38,151.02,98,True
+PROD00412,HomePro Pet Food Product 412,Pet Care,Pet Food,HomePro,SUP00027,India,116.97,159.04,65,True
+PROD00413,Everyday Essentials Storage Product 413,Homeware,Storage,Everyday Essentials,SUP00022,India,29.36,47.58,16,True
+PROD00414,Everyday Essentials Small Electrical Product 414,Electrical,Small Electrical,Everyday Essentials,SUP00005,China,34.42,61.21,20,True
+PROD00415,TradeSelect Brushes & Rollers Product 415,Paints & Decorating,Brushes & Rollers,TradeSelect,SUP00029,India,89.77,175.17,70,True
+PROD00416,PrimeChoice Pet Accessories Product 416,Pet Care,Pet Accessories,PrimeChoice,SUP00012,China,68.25,119.22,55,True
+PROD00417,SmartBuy Small Electrical Product 417,Electrical,Small Electrical,SmartBuy,SUP00038,UK,33.0,65.64,59,True
+PROD00418,PrimeChoice Cables Product 418,Electrical,Cables,PrimeChoice,SUP00029,India,64.11,106.6,39,True
+PROD00419,Everyday Essentials Wallpaper Product 419,Paints & Decorating,Wallpaper,Everyday Essentials,SUP00027,India,100.69,125.02,15,True
+PROD00420,PrimeChoice Exterior Paint Product 420,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00032,India,66.43,108.51,15,True
+PROD00421,TradeSelect Outdoor Furniture Product 421,Garden & Outdoor,Outdoor Furniture,TradeSelect,SUP00016,China,8.9,12.63,31,True
+PROD00422,PrimeChoice Cables Product 422,Electrical,Cables,PrimeChoice,SUP00013,China,75.77,129.4,69,False
+PROD00423,ValuePlus Interior Paint Product 423,Paints & Decorating,Interior Paint,ValuePlus,SUP00030,India,30.14,57.95,85,True
+PROD00424,PrimeChoice BBQ Product 424,Garden & Outdoor,BBQ,PrimeChoice,SUP00034,UK,81.81,157.44,29,True
+PROD00425,PrimeChoice Garden Tools Product 425,Garden & Outdoor,Garden Tools,PrimeChoice,SUP00030,India,107.73,188.92,99,True
+PROD00426,SmartBuy Cleaning Product 426,Homeware,Cleaning,SmartBuy,SUP00017,China,61.07,113.26,20,True
+PROD00427,SmartBuy Pet Food Product 427,Pet Care,Pet Food,SmartBuy,SUP00028,India,96.22,185.42,55,True
+PROD00428,Everyday Essentials Pet Accessories Product 428,Pet Care,Pet Accessories,Everyday Essentials,SUP00032,India,50.97,78.36,25,True
+PROD00429,SmartBuy Cleaning Product 429,Homeware,Cleaning,SmartBuy,SUP00007,China,92.65,121.49,31,True
+PROD00430,ValuePlus Brushes & Rollers Product 430,Paints & Decorating,Brushes & Rollers,ValuePlus,SUP00024,India,60.46,115.21,28,True
+PROD00431,HomePro Pet Accessories Product 431,Pet Care,Pet Accessories,HomePro,SUP00005,China,39.69,67.13,49,True
+PROD00432,Everyday Essentials Hair Care Product 432,Health & Beauty,Hair Care,Everyday Essentials,SUP00004,China,50.33,66.78,28,True
+PROD00433,HomePro Cat Care Product 433,Pet Care,Cat Care,HomePro,SUP00022,India,66.7,113.08,93,True
+PROD00434,ValuePlus Lighting Product 434,Electrical,Lighting,ValuePlus,SUP00018,China,76.05,148.0,74,True
+PROD00435,ValuePlus BBQ Product 435,Garden & Outdoor,BBQ,ValuePlus,SUP00009,China,17.84,21.75,61,True
+PROD00436,ValuePlus Pet Food Product 436,Pet Care,Pet Food,ValuePlus,SUP00019,China,25.77,39.39,59,True
+PROD00437,SmartBuy Lighting Product 437,Electrical,Lighting,SmartBuy,SUP00037,UK,61.82,91.71,100,True
+PROD00438,SmartBuy Garden Tools Product 438,Garden & Outdoor,Garden Tools,SmartBuy,SUP00012,China,29.08,37.7,26,True
+PROD00439,ValuePlus Outdoor Furniture Product 439,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00030,India,35.85,45.16,79,True
+PROD00440,TradeSelect Outdoor Furniture Product 440,Garden & Outdoor,Outdoor Furniture,TradeSelect,SUP00023,India,102.41,139.5,94,True
+PROD00441,SmartBuy Pet Accessories Product 441,Pet Care,Pet Accessories,SmartBuy,SUP00039,UK,59.28,99.27,18,True
+PROD00442,HomePro Interior Paint Product 442,Paints & Decorating,Interior Paint,HomePro,SUP00025,India,93.16,127.42,35,True
+PROD00443,TradeSelect Dog Care Product 443,Pet Care,Dog Care,TradeSelect,SUP00016,China,79.89,120.65,95,True
+PROD00444,PrimeChoice Bathroom Product 444,Homeware,Bathroom,PrimeChoice,SUP00035,UK,109.39,218.37,92,True
+PROD00445,Everyday Essentials Switches Product 445,Electrical,Switches,Everyday Essentials,SUP00040,UK,111.16,198.97,86,True
+PROD00446,SmartBuy Pet Accessories Product 446,Pet Care,Pet Accessories,SmartBuy,SUP00029,India,49.49,78.63,30,True
+PROD00447,TradeSelect Cat Care Product 447,Pet Care,Cat Care,TradeSelect,SUP00035,UK,92.72,133.47,92,True
+PROD00448,Everyday Essentials Pet Accessories Product 448,Pet Care,Pet Accessories,Everyday Essentials,SUP00038,UK,31.6,39.06,37,True
+PROD00449,TradeSelect Lighting Product 449,Electrical,Lighting,TradeSelect,SUP00011,China,117.78,163.35,78,True
+PROD00450,Everyday Essentials Cables Product 450,Electrical,Cables,Everyday Essentials,SUP00036,UK,47.9,72.17,10,True
+PROD00451,ValuePlus Exterior Paint Product 451,Paints & Decorating,Exterior Paint,ValuePlus,SUP00017,China,77.45,110.1,21,True
+PROD00452,ValuePlus Cables Product 452,Electrical,Cables,ValuePlus,SUP00028,India,29.83,56.06,51,True
+PROD00453,TradeSelect Exterior Paint Product 453,Paints & Decorating,Exterior Paint,TradeSelect,SUP00014,China,45.49,60.19,66,True
+PROD00454,ValuePlus Switches Product 454,Electrical,Switches,ValuePlus,SUP00007,China,83.65,123.09,74,True
+PROD00455,SmartBuy BBQ Product 455,Garden & Outdoor,BBQ,SmartBuy,SUP00009,China,73.64,128.63,71,True
+PROD00456,PrimeChoice Small Electrical Product 456,Electrical,Small Electrical,PrimeChoice,SUP00004,China,89.96,170.27,38,True
+PROD00457,ValuePlus Interior Paint Product 457,Paints & Decorating,Interior Paint,ValuePlus,SUP00009,China,110.24,181.17,32,True
+PROD00458,Everyday Essentials Outdoor Furniture Product 458,Garden & Outdoor,Outdoor Furniture,Everyday Essentials,SUP00006,China,95.79,175.97,30,True
+PROD00459,PrimeChoice Wellness Product 459,Health & Beauty,Wellness,PrimeChoice,SUP00023,India,25.39,41.0,71,True
+PROD00460,ValuePlus Dog Care Product 460,Pet Care,Dog Care,ValuePlus,SUP00030,India,85.83,157.34,13,True
+PROD00461,Everyday Essentials Storage Product 461,Homeware,Storage,Everyday Essentials,SUP00028,India,26.16,43.47,40,True
+PROD00462,TradeSelect Garden Tools Product 462,Garden & Outdoor,Garden Tools,TradeSelect,SUP00007,China,92.41,170.85,96,True
+PROD00463,PrimeChoice Hair Care Product 463,Health & Beauty,Hair Care,PrimeChoice,SUP00018,China,17.04,26.1,23,True
+PROD00464,Everyday Essentials Dog Care Product 464,Pet Care,Dog Care,Everyday Essentials,SUP00031,India,91.99,112.04,93,False
+PROD00465,PrimeChoice Dog Care Product 465,Pet Care,Dog Care,PrimeChoice,SUP00010,China,117.7,145.99,72,True
+PROD00466,PrimeChoice Exterior Paint Product 466,Paints & Decorating,Exterior Paint,PrimeChoice,SUP00032,India,43.75,55.46,46,True
+PROD00467,HomePro Personal Care Product 467,Health & Beauty,Personal Care,HomePro,SUP00019,China,32.21,44.73,57,True
+PROD00468,HomePro Wellness Product 468,Health & Beauty,Wellness,HomePro,SUP00014,China,95.69,162.7,78,True
+PROD00469,TradeSelect Brushes & Rollers Product 469,Paints & Decorating,Brushes & Rollers,TradeSelect,SUP00027,India,29.54,56.1,85,True
+PROD00470,ValuePlus Interior Paint Product 470,Paints & Decorating,Interior Paint,ValuePlus,SUP00022,India,103.24,133.08,23,True
+PROD00471,TradeSelect Plant Care Product 471,Garden & Outdoor,Plant Care,TradeSelect,SUP00030,India,15.12,25.55,73,True
+PROD00472,ValuePlus Bathroom Product 472,Homeware,Bathroom,ValuePlus,SUP00018,China,85.1,164.89,11,True
+PROD00473,TradeSelect Cleaning Product 473,Homeware,Cleaning,TradeSelect,SUP00025,India,43.16,70.44,85,True
+PROD00474,PrimeChoice Pet Food Product 474,Pet Care,Pet Food,PrimeChoice,SUP00007,China,30.16,60.11,40,True
+PROD00475,ValuePlus Cat Care Product 475,Pet Care,Cat Care,ValuePlus,SUP00033,UK,15.46,27.25,52,True
+PROD00476,HomePro Cat Care Product 476,Pet Care,Cat Care,HomePro,SUP00030,India,23.1,37.98,75,True
+PROD00477,TradeSelect Small Electrical Product 477,Electrical,Small Electrical,TradeSelect,SUP00039,UK,106.27,174.96,82,True
+PROD00478,HomePro Interior Paint Product 478,Paints & Decorating,Interior Paint,HomePro,SUP00004,China,38.38,48.11,73,True
+PROD00479,ValuePlus Kitchen Product 479,Homeware,Kitchen,ValuePlus,SUP00039,UK,42.52,69.65,92,True
+PROD00480,SmartBuy Lighting Product 480,Electrical,Lighting,SmartBuy,SUP00019,China,64.5,120.13,67,True
+PROD00481,ValuePlus Cat Care Product 481,Pet Care,Cat Care,ValuePlus,SUP00006,China,100.19,147.51,64,True
+PROD00482,Everyday Essentials Bathroom Product 482,Homeware,Bathroom,Everyday Essentials,SUP00029,India,104.72,188.79,94,True
+PROD00483,Everyday Essentials Garden Tools Product 483,Garden & Outdoor,Garden Tools,Everyday Essentials,SUP00016,China,50.4,100.04,86,True
+PROD00484,ValuePlus Outdoor Furniture Product 484,Garden & Outdoor,Outdoor Furniture,ValuePlus,SUP00010,China,4.15,6.36,22,True
+PROD00485,ValuePlus Wellness Product 485,Health & Beauty,Wellness,ValuePlus,SUP00036,UK,69.0,87.8,18,True
+PROD00486,HomePro Pet Accessories Product 486,Pet Care,Pet Accessories,HomePro,SUP00015,China,89.27,126.69,53,True
+PROD00487,Everyday Essentials Kitchen Product 487,Homeware,Kitchen,Everyday Essentials,SUP00016,China,39.95,48.73,95,True
+PROD00488,TradeSelect Personal Care Product 488,Health & Beauty,Personal Care,TradeSelect,SUP00037,UK,94.32,162.62,18,True
+PROD00489,TradeSelect Lighting Product 489,Electrical,Lighting,TradeSelect,SUP00008,China,20.0,33.45,43,True
+PROD00490,Everyday Essentials Garden Tools Product 490,Garden & Outdoor,Garden Tools,Everyday Essentials,SUP00026,India,119.83,152.66,61,True
+PROD00491,Everyday Essentials Pet Food Product 491,Pet Care,Pet Food,Everyday Essentials,SUP00006,China,40.56,77.63,66,True
+PROD00492,HomePro Pet Accessories Product 492,Pet Care,Pet Accessories,HomePro,SUP00012,China,31.38,43.38,35,True
+PROD00493,SmartBuy Storage Product 493,Homeware,Storage,SmartBuy,SUP00035,UK,53.9,98.73,69,True
+PROD00494,PrimeChoice BBQ Product 494,Garden & Outdoor,BBQ,PrimeChoice,SUP00005,China,80.89,154.89,53,True
+PROD00495,HomePro Cat Care Product 495,Pet Care,Cat Care,HomePro,SUP00002,China,54.45,70.71,68,True
+PROD00496,HomePro Bathroom Product 496,Homeware,Bathroom,HomePro,SUP00005,China,85.41,152.25,94,True
+PROD00497,SmartBuy Wellness Product 497,Health & Beauty,Wellness,SmartBuy,SUP00022,India,27.32,49.79,55,True
+PROD00498,Everyday Essentials Small Electrical Product 498,Electrical,Small Electrical,Everyday Essentials,SUP00004,China,119.16,188.0,61,True
+PROD00499,SmartBuy Dog Care Product 499,Pet Care,Dog Care,SmartBuy,SUP00040,UK,77.93,110.64,55,True
+PROD00500,ValuePlus Kitchen Product 500,Homeware,Kitchen,ValuePlus,SUP00033,UK,5.13,9.16,49,True

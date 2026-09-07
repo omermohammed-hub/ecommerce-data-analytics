@@ -1,0 +1,83 @@
+table,column,data_type,nullable,unique_count,key_role,business_description
+customers,customer_id,str,False,5000,PK,Unique customer identifier
+customers,customer_type,str,False,2,,"Customer type, such as B2C or B2B"
+customers,first_name,str,False,364,,Customer first name
+customers,last_name,str,False,492,,Customer last name
+customers,email,str,False,4937,,Customer email address
+customers,postcode_area,str,False,3396,,Customer postcode area
+customers,city,str,False,41,,Customer city
+customers,region,str,False,12,,Customer region
+customers,signup_date,str,False,731,,Customer registration date
+suppliers,supplier_id,str,False,40,PK,Unique supplier identifier
+suppliers,supplier_name,str,False,40,,Supplier name
+suppliers,supplier_country,str,False,3,,Supplier country
+suppliers,supplier_region,str,False,14,,Supplier region
+suppliers,standard_lead_time_days,int64,False,31,,Standard supplier lead time in days
+suppliers,payment_terms_days,int64,False,4,,Supplier payment terms in days
+suppliers,supplier_status,str,False,2,,Supplier active/inactive status
+products,product_id,str,False,500,PK,Unique product identifier
+products,product_name,str,False,500,,Product name
+products,category,str,False,6,,Product category
+products,subcategory,str,False,24,,Product subcategory
+products,brand,str,False,6,,Product brand
+products,supplier_id,str,False,40,FK → suppliers.supplier_id,Unique supplier identifier
+products,sourcing_country,str,False,3,,Country where product is sourced
+products,cost_price,float64,False,493,,Product purchase cost
+products,selling_price,float64,False,491,,Product selling price
+products,reorder_level,int64,False,90,,Stock level at which replenishment should be considered
+products,active_flag,bool,False,2,,Indicates whether the product is currently active
+purchase_orders,purchase_order_id,str,False,2000,PK,Unique purchase order identifier
+purchase_orders,supplier_id,str,False,40,FK → suppliers.supplier_id,Unique supplier identifier
+purchase_orders,product_id,str,False,493,FK → products.product_id,Unique product identifier
+purchase_orders,order_date,str,False,551,,Customer order date/time
+purchase_orders,expected_delivery_date,str,False,573,,Expected delivery date
+purchase_orders,quantity_ordered,int64,False,860,,Quantity ordered from supplier
+purchase_orders,unit_cost,float64,False,486,,Purchase cost per unit
+purchase_orders,purchase_order_status,str,False,3,,Purchase order status
+shipments,shipment_id,str,False,1500,PK,Unique shipment identifier
+shipments,purchase_order_id,str,False,1500,FK → purchase_orders.purchase_order_id,Unique purchase order identifier
+shipments,origin_country,str,False,3,,Shipment origin country
+shipments,destination_country,str,False,1,,Shipment destination country
+shipments,shipment_date,str,False,530,,Shipment dispatch date
+shipments,estimated_arrival_date,str,False,543,,Estimated shipment arrival date
+shipments,actual_arrival_date,str,False,553,,Actual shipment arrival date
+shipments,shipping_method,str,False,5,,Method used to transport shipment
+shipments,freight_cost,float64,False,1494,,Shipment freight cost
+shipments,import_duty,float64,False,1228,,Import duty cost
+shipments,other_import_cost,float64,False,1480,,Other import-related cost
+shipments,shipment_status,str,False,2,,Shipment status
+orders,order_id,str,False,50000,PK,Unique customer order identifier
+orders,customer_id,str,False,4999,FK → customers.customer_id,Unique customer identifier
+orders,order_date,str,False,48528,,Customer order date/time
+orders,order_status,str,False,4,,Customer order status
+orders,sales_channel,str,False,3,,Channel through which order was placed
+orders,delivery_method,str,False,3,,Customer delivery method
+orders,shipping_region,str,False,12,,Customer shipping region
+order_items,order_item_id,str,False,136153,PK,Unique order line identifier
+order_items,order_id,str,False,47508,FK → orders.order_id,Unique customer order identifier
+order_items,product_id,str,False,500,FK → products.product_id,Unique product identifier
+order_items,quantity,int64,False,10,,Quantity of product purchased
+order_items,unit_price,float64,False,491,,Selling price per unit at time of order
+order_items,discount_amount,float64,False,18082,,Discount applied to order line
+payments,payment_id,str,False,47508,PK,Unique payment identifier
+payments,order_id,str,False,47508,FK → orders.order_id,Unique customer order identifier
+payments,payment_date,str,False,46179,,Payment date/time
+payments,payment_method,str,False,5,,Payment method
+payments,payment_status,str,False,3,,Payment status
+payments,amount,float64,False,43965,,Payment amount
+returns,return_id,str,False,6155,PK,Unique return identifier
+returns,order_id,str,False,5779,FK → orders.order_id,Unique customer order identifier
+returns,product_id,str,False,500,FK → products.product_id,Unique product identifier
+returns,return_date,str,False,541,,Return date
+returns,quantity_returned,int64,False,10,,Quantity returned
+returns,return_reason,str,False,7,,Reason for product return
+returns,refund_amount,float64,False,2814,,Refund amount
+returns,return_status,str,False,3,,Return status
+inventory,inventory_id,str,False,6000,PK,Unique inventory record identifier
+inventory,product_id,str,False,500,FK → products.product_id,Unique product identifier
+inventory,inventory_date,str,False,12,,Inventory snapshot date
+inventory,opening_stock,int64,False,1263,,Opening inventory quantity
+inventory,units_received,int64,False,295,,Units received during period
+inventory,units_sold,int64,False,141,,Units sold during period
+inventory,units_returned,int64,False,16,,Units returned during period
+inventory,closing_stock,int64,False,1364,,Closing inventory quantity
