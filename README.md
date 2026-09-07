@@ -86,6 +86,27 @@ Analyses purchase orders, purchasing spend, supplier performance, lead times and
 Analyses returns, refund values, return reasons and category-level return performance.
 
 ---
+## Dashboard Preview
+
+### Executive / E-Commerce Overview
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+### Sales / Customer Analysis
+
+![Sales & Customer Analysis](screenshots/02-sales-customer-analysis.png)
+
+### Product & Inventory Analysis
+
+![Product & Inventory Analysis](screenshots/03-product-inventory-analysis.png)
+
+### Procurement & Supplier Analysis
+
+![Procurement & Supplier Analysis](screenshots/04-procurement-supplier-analysis.png)
+
+### Returns & Operations Analysis
+
+![Returns & Operations Analysis](screenshots/05-returns-operations-analysis.png)
 
 ## Key Business Insights
 
