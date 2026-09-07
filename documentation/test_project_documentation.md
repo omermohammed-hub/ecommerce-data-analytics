@@ -470,3 +470,6 @@ The Perfect2Trade project demonstrates how a Data Analyst can combine technical 
 The analysis shows a profitable business with £74.33M in revenue and £28.31M in gross profit, while also highlighting areas requiring attention across revenue performance, category profitability, inventory, supplier delivery, and returns.
 
 The overall recommendation is to pursue targeted profitable growth, protect existing margins, and improve operational control using data-driven monitoring.
+## Git Practice Update
+
+This section was added after the first version was pushed to GitHub.
