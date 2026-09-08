@@ -277,8 +277,8 @@ ecommerce-data-analytics/
 
 Detailed project documentation is available in:
 
-- `documentation/project_documentation.md` — complete project methodology and technical documentation
-- `documentation/business_insights.md` — detailed findings, business implications and recommendations
+- [Project Documentation](documentation/project_documentation.md) — complete project methodology and technical documentation
+- [Business Insights](documentation/business_insights.md) — detailed findings, business implications and recommendations
 
 ---
 
