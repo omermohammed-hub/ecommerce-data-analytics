@@ -145,10 +145,9 @@ Garden & Outdoor recorded the highest number of returns by category.
 **Recommendation:** Investigate the main quality-related return patterns and prioritise high-return categories and products for further review.
 
 ---
+# Project Workflow
 
-## Project Workflow
-
-```text
+```
 Raw Data
    ↓
 Data Validation & Profiling
@@ -164,6 +163,10 @@ Interactive Dashboard
 Business Insights
    ↓
 Recommendations
+```
+
+---
+
 # Data Model
 
 The Power BI model uses a relational structure consisting of dimension and fact tables.
