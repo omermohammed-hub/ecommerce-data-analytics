@@ -133,13 +133,41 @@ Inventory records include opening stock, received units, sold units, returned un
 
 ## 3. Relationship Model
 
-**Procurement / Supply Chain** — Suppliers provide products.
+### Procurement / Supply Chain
+
+Suppliers provide products.
 
 ```text
 SUPPLIERS 1 ───────────< PRODUCTS
 ```
 
-**Customer Sales** — Customers can place multiple orders.
+Suppliers can have many purchase orders.
+
+```text
+SUPPLIERS 1 ───────────< PURCHASE_ORDERS
+```
+
+Products can appear in many purchase orders.
+
+```text
+PRODUCTS 1 ───────────< PURCHASE_ORDERS
+```
+
+Purchase orders can have associated shipments.
+
+```text
+PURCHASE_ORDERS 1 ────< SHIPMENTS
+```
+
+Products can have multiple inventory records over time.
+
+```text
+PRODUCTS 1 ───────────< INVENTORY
+```
+
+### Customer Sales
+
+Customers can place multiple orders.
 
 ```text
 CUSTOMERS 1 ──────────< ORDERS
@@ -157,16 +185,25 @@ Products can appear in many order items.
 PRODUCTS 1 ────────────< ORDER_ITEMS
 ```
 
-**Payments** — Orders can have associated payments.
+### Payments
+
+Orders can have associated payments.
 
 ```text
 ORDERS 1 ──────────────< PAYMENTS
 ```
 
-**Returns** — Orders can have associated returns; products can appear in many returns.
+### Returns
+
+Orders can have associated returns.
 
 ```text
 ORDERS 1 ──────────────< RETURNS
+```
+
+Products can appear in many returns.
+
+```text
 PRODUCTS 1 ────────────< RETURNS
 ```
 
