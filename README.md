@@ -12,19 +12,6 @@
 An end-to-end retail and e-commerce analytics case study — from raw operational data to a five-page interactive Power BI dashboard, built to demonstrate practical Data Analyst skills across data preparation, modelling, DAX, and business insight generation.
 
 ---
-## 📑 Contents
-
-- [Overview](#Overview)
-- [Dashboard Preview](#Dashboard Preview)
-- [Key Highlights](#Key Highlights)
-- [Tech Stack](#🛠 Tech Stack)
-- [Project Workflow](#project-workflow)
-- [Data Model](#data-model)
-- [Repository Structure](#repository-structure)
-- [Documentation](#documentation)
-- [Skills Demonstrated](#skills-demonstrated)
-
----
 
 ## 📑 Contents
 
