@@ -26,6 +26,22 @@ An end-to-end retail and e-commerce analytics case study — from raw operationa
 
 ---
 
+## 📑 Contents
+
+- [Overview](#overview)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Highlights](#key-highlights)
+- [Tech Stack](#tech-stack)
+- [Project Workflow](#project-workflow)
+- [Data Model](#data-model)
+- [Repository Structure](#repository-structure)
+- [Documentation](#documentation)
+- [Skills Demonstrated](#skills-demonstrated)
+
+---
+
+<a name="overview"></a>
+
 ## 🧭 Overview
 
 This project simulates a UK retail business trading across multiple product categories, serving both B2C and B2B customers. Raw operational data is transformed into a structured analytical model and used to build a Power BI dashboard supporting business performance analysis and decision-making.
@@ -42,6 +58,8 @@ This project simulates a UK retail business trading across multiple product cate
 
 ---
 
+<a name="dashboard-preview"></a>
+
 ## 📈 Dashboard Preview
 
 | Page Focus | Description |
@@ -55,6 +73,8 @@ This project simulates a UK retail business trading across multiple product cate
 *See [`screenshots/`](screenshots/) for full-resolution page images.*
 
 ---
+
+<a name="key-highlights"></a>
 
 ## 🔑 Key Highlights
 
@@ -70,11 +90,15 @@ This project simulates a UK retail business trading across multiple product cate
 
 ---
 
+<a name="tech-stack"></a>
+
 ## 🛠 Tech Stack
 
 `Python` · `Pandas` · `Power Query` · `Power BI` · `DAX` · `Git` · `GitHub` · `VS Code`
 
 ---
+
+<a name="project-workflow"></a>
 
 ## 🔄 Project Workflow
 
