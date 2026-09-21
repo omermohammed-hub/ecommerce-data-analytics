@@ -14,11 +14,10 @@ An end-to-end retail and e-commerce analytics case study — from raw operationa
 ---
 ## 📑 Contents
 
-
-- [Overview](#overview)
-- [Dashboard Preview](#dashboard-preview)
-- [Key Highlights](#key-highlights)
-- [Tech Stack](#tech-stack)
+- [Overview](#Overview)
+- [Dashboard Preview](#Dashboard Preview)
+- [Key Highlights](#Key Highlights)
+- [Tech Stack](#🛠 Tech Stack)
 - [Project Workflow](#project-workflow)
 - [Data Model](#data-model)
 - [Repository Structure](#repository-structure)
