@@ -109,6 +109,8 @@ Recommendations
 
 ---
 
+<a name="data-model"></a>
+
 ## 🗂 Data Model
 
 Star-schema-style relational model.
@@ -120,6 +122,8 @@ Star-schema-style relational model.
 Full entity relationships and PK/FK reference: [`data_model.md`](documentation/data_model.md)
 
 ---
+
+<a name="repository-structure"></a>
 
 ## 📁 Repository Structure
 
@@ -143,6 +147,8 @@ ecommerce-data-analytics/
 
 ---
 
+<a name="documentation"></a>
+
 ## 📚 Documentation
 
 | Document | Contents |
@@ -152,6 +158,8 @@ ecommerce-data-analytics/
 | [`data_model.md`](documentation/data_model.md) | Table definitions, relationships, PK/FK reference |
 
 ---
+
+<a name="skills-demonstrated"></a>
 
 ## 🧠 Skills Demonstrated
 
