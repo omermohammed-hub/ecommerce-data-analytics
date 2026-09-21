@@ -1,156 +1,88 @@
-# Perfect2Trade E-Commerce Data Analytics
+# 📊 OmerTrade Retail Analytics
+### E-Commerce Data Analytics & Power BI Dashboard
 
-## Project Overview
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat)
+![Power Query](https://img.shields.io/badge/Power%20Query-6E4C95?style=flat)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-Perfect2Trade is an independent retail and e-commerce analytics case study created for portfolio purposes.
+> **Note:** OmerTrade Retail Analytics is a fictional company created for this independent portfolio project. All data is synthetically generated and does not represent any real business, customer, sales, inventory, or financial data.
 
-The project simulates a UK retail business operating across multiple product categories and serving both B2C and B2B customers. The objective was to transform raw operational data into a structured analytical model and develop a Power BI dashboard that supports business performance analysis and decision-making.
-
-The dataset is independently generated for portfolio purposes and does not represent actual Perfect2Trade customer, sales, inventory or financial data.
-
-The project focuses on practical Data Analyst skills including data preparation, data modelling, DAX, business intelligence reporting, data visualisation and business insight generation.
-
----
-
-## Business Problem
-
-Management needs a clear view of commercial performance and operational risks across the business.
-
-The analysis focuses on:
-
-- Revenue and sales performance over time
-- Product and category profitability
-- Customer purchasing behaviour
-- Inventory availability and reorder risks
-- Supplier purchasing and delivery performance
-- Product returns and refund exposure
-- Identifying areas where management action could improve performance
+An end-to-end retail and e-commerce analytics case study — from raw operational data to a five-page interactive Power BI dashboard, built to demonstrate practical Data Analyst skills across data preparation, modelling, DAX, and business insight generation.
 
 ---
 
-## Project Objectives
+## 📑 Contents
 
-The project was designed to:
-
-1. Prepare and validate raw retail datasets for analysis.
-2. Transform and structure the data using Power Query.
-3. Build a relational analytical data model in Power BI.
-4. Develop DAX measures for commercial and operational KPIs.
-5. Create an interactive five-page Power BI dashboard.
-6. Identify meaningful business trends and performance issues.
-7. Translate analytical findings into practical recommendations.
-
----
-
-## Key Results
-
-| KPI | Result |
-|---|---:|
-| Revenue | **£74.33M** |
-| Gross Profit | **£28.31M** |
-| Gross Margin | **38.1%** |
-| Orders | **50K** |
-| Customers | **5K** |
-| Units Sold | **749K** |
-| Discount | **£5.56M** |
-| Products Below Reorder Level | **223** |
-| Late Shipments | **664** |
-| Average Delivery Delay | **1.50 days** |
-| Refund Amount | **£2.01M** |
-| Return Rate | **2.68%** |
+- [Overview](#overview)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Highlights](#key-highlights)
+- [Tech Stack](#tech-stack)
+- [Project Workflow](#project-workflow)
+- [Data Model](#data-model)
+- [Repository Structure](#repository-structure)
+- [Documentation](#documentation)
+- [Skills Demonstrated](#skills-demonstrated)
 
 ---
 
-## Power BI Dashboard
+## 🧭 Overview
 
-The final Power BI report contains five analytical pages:
+This project simulates a UK retail business trading across multiple product categories, serving both B2C and B2B customers. Raw operational data is transformed into a structured analytical model and used to build a Power BI dashboard supporting business performance analysis and decision-making.
 
-### 1. Executive / E-Commerce Overview
+**Business questions this project answers:**
 
-Provides a high-level view of revenue, orders, customers, units sold, gross profit, gross margin and revenue trends.
-
-### 2. Sales / Customer Analysis
-
-Analyses customer purchasing behaviour, sales performance, product revenue and customer-related trends.
-
-### 3. Product & Inventory
-
-Examines product performance, category profitability, stock levels and products below their reorder levels.
-
-### 4. Procurement & Supplier Analysis
-
-Analyses purchase orders, purchasing spend, supplier performance, lead times and shipment delays.
-
-### 5. Returns & Operations
-
-Analyses returns, refund values, return reasons and category-level return performance.
+| Area | Question |
+|---|---|
+| Revenue | How is revenue trending, and where is it under pressure? |
+| Profitability | Which categories drive revenue vs. which drive margin? |
+| Inventory | Which products are at risk of stocking out? |
+| Suppliers | How reliable are suppliers on delivery lead times? |
+| Returns | Where is refund exposure concentrated, and why? |
 
 ---
-## Dashboard Preview
 
-Click a dashboard page below to view the full screenshot.
+## 📈 Dashboard Preview
 
-- [01 — Executive / E-Commerce Overview](screenshots/01-executive-overview.png)
-- [02 — Sales / Customer Analysis](screenshots/02-sales-customer-analysis.png)
-- [03 — Product & Inventory Analysis](screenshots/03-product-inventory-analysis.png)
-- [04 — Procurement & Supplier Analysis](screenshots/04-procurement-supplier-analysis.png)
-- [05 — Returns & Operations Analysis](screenshots/05-returns-operations-analysis.png)
+| Page Focus | Description |
+|---|---|
+| **01 · Executive Overview** | Revenue, orders, customers, units sold, gross profit, gross margin |
+| **02 · Sales & Customer Analysis** | Customer type, sales channel, region, top products |
+| **03 · Product & Inventory** | Category performance, stock levels, reorder risk |
+| **04 · Procurement & Supplier Analysis** | Purchase orders, spend, supplier lead times, delays |
+| **05 · Returns & Operations** | Return volume, reasons, refund value, return rate, category performance |
 
-## Key Business Insights
-
-### 1. Revenue performance weakened in 2026
-
-Revenue performance was broadly stable during the first half of 2026 but weakened significantly in July.
-
-July 2026 revenue was approximately **17% lower than July 2025**.
-
-**Recommendation:** Investigate the drivers of the July decline, including product demand, customer activity and sales mix, before considering targeted commercial actions.
-
-### 2. Pet Care generates high revenue but has the weakest margin
-
-Pet Care generated approximately **£13.30M in revenue**, the highest of the analysed categories, but recorded the lowest gross margin at **34.8%**.
-
-**Recommendation:** Review pricing, discounting and product-level costs within Pet Care to identify opportunities to improve profitability without unnecessarily reducing sales volume.
-
-### 3. Electrical has the strongest gross margin
-
-Electrical generated approximately **£10.82M in revenue** with a gross margin of **40.5%**, the highest among the categories analysed.
-
-**Recommendation:** Evaluate whether selected Electrical products could support profitable growth through increased visibility, cross-selling or targeted promotion.
-
-### 4. Overall profitability remains healthy
-
-The business generated approximately **£28.31M in gross profit** from **£74.33M in revenue**, producing a **38.1% gross margin**.
-
-**Recommendation:** Maintain overall margin discipline while focusing improvement efforts on categories and products with weaker profitability.
-
-### 5. Inventory availability presents a potential risk
-
-**223 products** were identified as being below their defined reorder level.
-
-**Recommendation:** Prioritise these products based on sales velocity and commercial importance to reduce the risk of stock-outs while avoiding unnecessary inventory accumulation.
-
-### 6. Supplier delivery performance requires attention
-
-The analysis identified **664 late shipments**, with an average delivery delay of approximately **1.50 days**.
-
-**Recommendation:** Monitor supplier delivery performance and investigate recurring delays that could affect inventory availability and operational reliability.
-
-### 7. Returns create a measurable financial impact
-
-The business recorded approximately **6K returns**, representing around **20K returned units** and **£2.01M in refunds**. The overall return rate was **2.68%**, with Quality Issue identified as the leading return reason.
-
-Garden & Outdoor recorded the highest number of returns by category.
-
-**Recommendation:** Investigate the main quality-related return patterns and prioritise high-return categories and products for further review.
+*See [`screenshots/`](screenshots/) for full-resolution page images.*
 
 ---
-# Project Workflow
 
-```
+## 🔑 Key Highlights
+
+- 💰 **£74.33M** total revenue, **£28.31M** gross profit (**38.1%** margin)
+- 📉 Revenue softened through 2026 — **July down ~17%** year-on-year
+- 🐾 **Pet Care**: highest revenue, weakest margin (34.8%)
+- 🔌 **Electrical**: lowest category revenue, strongest margin (40.5%) — potential profitable-growth opportunity
+- 📦 **223 products** below reorder level
+- 🚚 **664 late shipments**, average delay **1.5 days**
+- ↩️ **~6K returns** / **£2.01M** refunded, **2.68%** return rate
+
+*Full findings and recommendations:* [`business_insights.md`](documentation/business_insights.md)
+
+---
+
+## 🛠 Tech Stack
+
+`Python` · `Pandas` · `Power Query` · `Power BI` · `DAX` · `Git` · `GitHub` · `VS Code`
+
+---
+
+## 🔄 Project Workflow
+
+```text
 Raw Data
    ↓
-Data Validation & Profiling
+Validation & Profiling
    ↓
 Power Query ETL
    ↓
@@ -167,88 +99,21 @@ Recommendations
 
 ---
 
-# Data Model
+## 🗂 Data Model
 
-The Power BI model uses a relational structure consisting of dimension and fact tables.
+Star-schema-style relational model.
 
-## Dimension Tables
+- **Dimensions:** Customers · Products · Suppliers · DimDate
+- **Facts:** Orders · Order Items · Payments · Inventory · Purchase Orders · Shipments · Returns
+- **Measures table** organises all DAX calculations separately from source data
 
-- Customers
-- Products
-- Suppliers
-- DimDate
-
-## Fact Tables
-
-- Orders
-- Order_items
-- Payments
-- Inventory
-- Purchase_Orders
-- Shipments
-- Returns
-
-A dedicated Measures table is also used to organise analytical measures.
-
-The model uses relationships between transactional fact tables and relevant dimensions to support consistent reporting and analysis.
+Full entity relationships and PK/FK reference: [`data_model.md`](documentation/data_model.md)
 
 ---
 
-## DAX & Analytical Measures
+## 📁 Repository Structure
 
-DAX was used to create business-focused measures including:
-
-- Total Revenue
-- Total Orders
-- Total Customers
-- Units Sold
-- Total COGS
-- Gross Profit
-- Gross Margin %
-- Revenue Previous Year
-- Revenue YoY %
-- Products Below Reorder Level
-- Average Delivery Delay
-- Late Shipments
-- Late Shipment %
-- Return Rate
-- Refund Amount
-
-Example gross profit calculation:
-
-```dax
-Gross Profit =
-[Total Revenue] - [Total COGS]
-```
-
-Gross margin:
-
-```dax
-Gross Margin % =
-DIVIDE(
-    [Gross Profit],
-    [Total Revenue]
-)
-```
-
----
-
-## Tools & Technologies
-
-- Python
-- Pandas
-- Power Query
-- Power BI
-- DAX
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-## Repository Structure
-
-```
+```text
 ecommerce-data-analytics/
 │
 ├── data/
@@ -257,105 +122,33 @@ ecommerce-data-analytics/
 │
 ├── documentation/
 │   ├── business_insights.md
+│   ├── data_model.md
 │   └── project_documentation.md
 │
-├── powerbi/
-│
 ├── python/
-│
 ├── screenshots/
-│
-├── sql/
-│
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## Documentation
+## 📚 Documentation
 
-Detailed project documentation is available in:
-
-- [Project Documentation](documentation/project_documentation.md) — complete project methodology and technical documentation
-- [Business Insights](documentation/business_insights.md) — detailed findings, business implications and recommendations
-
----
-
-## Skills Demonstrated
-
-### Data Preparation
-
-- Data profiling
-- Data validation
-- Data cleaning
-- Power Query transformations
-- Handling relationships between datasets
-
-### Data Modelling
-
-- Fact and dimension modelling
-- Relationship design
-- Date table implementation
-- Analytical model development
-
-### Business Intelligence
-
-- Power BI dashboard development
-- KPI design
-- Interactive filtering
-- Trend analysis
-- Category and product analysis
-- Operational performance analysis
-
-### DAX
-
-- Aggregations
-- Calculated measures
-- Time-intelligence analysis
-- Year-over-year analysis
-- Profitability calculations
-- Inventory and operational KPIs
-
-### Business Analysis
-
-- Identifying performance trends
-- Profitability analysis
-- Inventory risk analysis
-- Supplier performance analysis
-- Returns analysis
-- Translating data into business recommendations
-
-### Version Control
-
-- Git repository management
-- Commits
-- Branch management
-- Remote repository management
-- GitHub version control workflow
+| Document | Contents |
+|---|---|
+| [`project_documentation.md`](documentation/project_documentation.md) | Full methodology, ETL approach, DAX measures, dashboard breakdown |
+| [`business_insights.md`](documentation/business_insights.md) | Detailed findings, evidence, business implications, recommendations |
+| [`data_model.md`](documentation/data_model.md) | Table definitions, relationships, PK/FK reference |
 
 ---
 
-## Analytical Limitations
+## 🧠 Skills Demonstrated
 
-The dataset is synthetically generated for portfolio purposes. Therefore, the results should be interpreted as an analytical case study rather than real-world Perfect2Trade business performance.
-
-The analysis identifies relationships and patterns in the available data but does not establish causation. Further investigation and additional business context would be required before implementing operational or commercial decisions.
+Data cleaning & validation · Power Query ETL · relational data modelling · DAX & time intelligence · Power BI dashboard development · profitability & inventory analysis · supplier performance analysis · returns analysis · business insight generation · Git/GitHub version control
 
 ---
 
-## Project Outcome
+## ⚠️ Analytical Limitations
 
-The completed project demonstrates an end-to-end Data Analyst workflow:
-
-**Business Problem → Data → ETL → Data Model → DAX → Dashboard → Insights → Recommendations**
-
-The final solution provides management-oriented analysis across commercial performance, profitability, products, inventory, procurement, suppliers and returns.
-
----
-
-## Conclusion
-
-Perfect2Trade demonstrates how structured data analysis and Power BI can be used to turn operational retail data into actionable business intelligence.
-
-The project combines technical data skills with business-focused analysis, with particular emphasis on producing insights that can support practical management decisions.
+Findings identify patterns and areas for investigation, not proven causes — e.g. the July revenue decline, supplier delays, and return reasons all warrant deeper analysis before real commercial decisions would be made on them.
